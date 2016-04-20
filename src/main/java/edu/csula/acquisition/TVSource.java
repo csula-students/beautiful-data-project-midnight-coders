@@ -41,7 +41,7 @@ public class TVSource implements Source<String> {
 				System.out.print(cols.get(1).text() + "   ");
 				System.out.println(cols.get(2).text());*/
 				JsonWriter jw = new JsonWriter();
-				jw.JsonWriter(link.attr("href"), cols.get(1).text(), cols.get(2).text());
+				jw.JsonWrite(link.attr("href"), cols.get(1).text(), cols.get(2).text());
 			}
 
 		} catch (IOException e) {

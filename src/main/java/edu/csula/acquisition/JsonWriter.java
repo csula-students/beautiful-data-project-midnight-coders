@@ -11,7 +11,8 @@ import org.json.simple.JSONObject;
 
 public class JsonWriter {
 	
-	public  void JsonWriter(String path, String name, String season) {
+	@SuppressWarnings("unchecked")
+	public  void JsonWrite(String path, String name, String season) {
 		JSONObject jsonObj = new JSONObject();
 
 		JSONArray jsonArray = new JSONArray();

@@ -37,10 +37,11 @@ public class TVSource implements Source<String> {
 				Element row = rows.get(i);
 				Elements cols = row.select("td");
 				Element link = row.select("a[href]").first();
-				System.out.print(link.attr("href") + "	");
+				/*System.out.print(link.attr("href") + "	");
 				System.out.print(cols.get(1).text() + "   ");
-				System.out.println(cols.get(2).text());
-
+				System.out.println(cols.get(2).text());*/
+				JsonWriter jw = new JsonWriter();
+				jw.JsonWrite(link.attr("href"), cols.get(1).text(), cols.get(2).text());
 			}
 
 		} catch (IOException e) {

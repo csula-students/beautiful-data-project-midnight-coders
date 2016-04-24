@@ -26,13 +26,13 @@ public class TVCollectorTest {
 	@Test
 	public void testSubtitles() throws Exception {
 		String current = new java.io.File(".").getCanonicalPath();
-		collector.save(current + "\\Data\\new\\", "testTV");
+		collector.save(current+"\\Data\\ExtractedTest", "testTV");
 	}
 
 	@Test
 	public void testSubtitlesList() throws Exception {
 		String current = new java.io.File(".").getCanonicalPath();
-		fetchRecords(current+ "\\Data\\new");
+		fetchRecords(current+"\\Data\\ExtractedTest");
 		//Assert.assertEquals(tv.size(), 11);
 		assert tv.size() > 0;
 

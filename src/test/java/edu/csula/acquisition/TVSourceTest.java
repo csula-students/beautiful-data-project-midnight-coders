@@ -6,12 +6,12 @@ import org.junit.Test;
 public class TVSourceTest {
 	private TVSource tvSource;
 
-	@Before
+	/*@Before
 	public void setup() {
 		tvSource = new TVSource();
 	}
-
-	@Test
+*/
+	/*@Test
 	public void testTVSubData() throws Exception {
 		tvSource.getSubtitlesByTVSub();
 	}
@@ -19,7 +19,7 @@ public class TVSourceTest {
 	@Test
 	public void testTVShows() throws Exception {
 		tvSource.getTVShowsByTVSubtitles("http://www.tvsubtitles.net/tvshows.html");
-	}
+	}*/
 	
 	
 

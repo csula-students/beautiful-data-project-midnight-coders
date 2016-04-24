@@ -21,7 +21,7 @@ public class TVCollector implements Collector<List<String>, List<String>> {
 		mongoClient = new MongoClient("localhost",
 				27017);
 		
-		 mongoDB = mongoClient.getDB("TVShows");
+		 mongoDB = mongoClient.getDB("tvshows");
 	}
 
 	public Collection<List<String>> mungee(Collection<List<String>> src) {

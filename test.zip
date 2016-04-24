@@ -1,0 +1,31 @@
+
+		<html>
+		<head>
+		<META NAME="robots" CONTENT="noindex,nofollow">
+		</head>
+		<body>
+<center><br /><br /><br /><div id="linkPlace"><b>Wait: <span id="timeNumer">0</span> sec ...</b></div></center>
+
+<script type="text/javascript"
+               language="JavaScript">
+
+var timerFIG = 5; // числом указывается необходимый период задержки в секундах ...
+       document.all.timeNumer.innerHTML = timerFIG; // начало отсчета прописывается автоматически ...
+
+var timer = setInterval("startTimer()",1000);
+
+        function startTimer()
+{
+        if(timerFIG !== 1) {
+           timerFIG--;
+           document.all.timeNumer.innerHTML = timerFIG;
+        } else {        	  var s1= 'fil';        	  document.all.timeNumer.innerHTML = 'download starting';
+           clearInterval(timer);
+           var s2= 'es/1';
+           var s3= '0.';
+           var s4= 'OClock.Live.S03E01.720p.HDTV.LOL_AD-italiansubs.it.zip';
+           document.location = s1+s2+s3+s4;
+        }
+}
+</script>
+</body></html>

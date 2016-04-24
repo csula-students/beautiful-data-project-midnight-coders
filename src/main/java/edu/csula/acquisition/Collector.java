@@ -15,4 +15,3 @@ public interface Collector<T, R> {
 
     void save(Collection<T> data);
 }
-

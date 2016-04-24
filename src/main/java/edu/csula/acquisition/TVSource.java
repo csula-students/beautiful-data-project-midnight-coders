@@ -15,7 +15,7 @@ import org.jsoup.select.Elements;
 public class TVSource implements Source<String> {
 
 	Document doc;
-
+	static Document docSub;
 	public boolean hasNext() {
 		// TODO Auto-generated method stub
 		return false;
@@ -26,7 +26,8 @@ public class TVSource implements Source<String> {
 		return null;
 	}
 
-	public void getTVShows(String path) {
+	/*-----Fetch All TV Series Shows from TVSubtitles.com----------*/
+	public void getTVShowsByTVSubtitles(String path) {
 		try {
 			doc = Jsoup.connect(path).get();
 
@@ -39,11 +40,15 @@ public class TVSource implements Source<String> {
 				Element row = rows.get(i);
 				Elements cols = row.select("td");
 				Element link = row.select("a[href]").first();
-				/*System.out.print(link.attr("href") + "	");
-				System.out.print(cols.get(1).text() + "   ");
-				System.out.println(cols.get(2).text());*/
+
+
 				JsonWriter jw = new JsonWriter();
-				jw.JsonWrite(link.attr("href"), cols.get(1).text(), cols.get(2).text());
+				jw.JsonWrite(link.attr("href"), cols.get(1).text(), cols.get(2)
+						.text());
+				TVSource.getSubtitlesByTVSubtitles(
+						"http://www.tvsubtitles.net/" + link.attr("href"),
+						Integer.parseInt(cols.get(2).text()), cols.get(1)
+								.text());
 			}
 
 		} catch (IOException e) {
@@ -53,10 +58,109 @@ public class TVSource implements Source<String> {
 
 	}
 
+	/*-----Fetch Subtitles from TVSubtitiles.net----------*/
+	public static void getSubtitlesByTVSubtitles(String url, int season,
+			String SeasonName) {
+		try {
+			docSub = Jsoup.connect(url).get();
+			String[] token = url.split("-");
+			// String[] NewToken = token[2].split(".");
+			for (int i = 1; i <= season; i++) {
+				Document docSeason = Jsoup.connect(
+						token[0] + "-" + token[1] + "-" + i + ".html").get();
+
+				Element table = docSeason.select("table").get(2); // select the
+																	// first
+				// table.
+				Elements rows1 = table.select("tr");
+				for (int j = 1; j < rows1.size() - 2; j++) { // first row is the
+					// col
+					// names so skip it.
+					Element row1 = rows1.get(j);
+					Elements cols1 = row1.select("td");
+					// Element col = row1.select("td").get(3);
+					if (Integer.parseInt(cols1.get(2).text()) > 0) {
+						String link = cols1.get(3).select("a[href]").first()
+								.attr("href");
+						String[] tk = link.split("-");
+						if (tk[0].equals("episode")) {
+							Document docInternal = Jsoup.connect(
+									"http://www.tvsubtitles.net/" + link).get();
+
+							Element brtag = docInternal.select("div.left a")
+									.get(1);
+							link = brtag.select("a[href]").first().attr("href")
+									.substring(1);
+
+						}
+						String[] fileid = null;
+						if (link != null) {
+							// System.out.println(link.attr("href"));
+							if (link != null)
+								System.out.println(link);
+							// System.out.println(cols1.get(3).select("a[href]").first().attr("href"));
+
+							String saveTo = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\downloaded\\";
+							String filepath = link;
+							String[] filename = filepath.split("-");
+							try {
+								URL dwnldurl = new URL(
+										"http://www.tvsubtitles.net//download-"
+												+ filename[1] + ".html");
+								HttpURLConnection conn = (HttpURLConnection) dwnldurl
+										.openConnection();
+
+								conn.setRequestProperty(
+										"User-Agent",
+										"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2");
+
+								InputStream in = conn.getInputStream();
+								fileid = filename[1].split(".");
+								FileOutputStream out = new FileOutputStream(
+										saveTo + filename[0] + "_" + fileid[0]
+												+ ".zip");
+								byte[] b = new byte[1024];
+								int count;
+								while ((count = in.read(b)) >= 0) {
+									out.write(b, 0, count);
+								}
+								out.flush();
+								out.close();
+								in.close();
+
+							} catch (IOException e) {
+								e.printStackTrace();
+							}
+
+							String zipFilePath = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\downloaded\\"
+									+ filename[0] + "_" + fileid[0] + ".zip";
+							String destDirectory = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\extracted";
+							UnzipUtility unzipper = new UnzipUtility();
+							try {
+
+								unzipper.unzip(zipFilePath, destDirectory,
+										SeasonName, "Season" + i);
+								// TVShowsApp.unzip(zipFilePath, destDirectory);
+							} catch (Exception ex) {
+								// some errors occurred
+								ex.printStackTrace();
+							}
+						}
+					}
+					
+				}
+
+			}
+		} catch (IOException e) {
+
+			e.printStackTrace();
+		}
+	}
+	
 	/*-----Fetch Subtitles from TV-Subs.com----------*/
 	public static void getSubtitlesByTVSub() throws IOException {
 		Document doc = null;
-		for (int i = 100; i < 101; i++) {
+		for (int i = 1; i < 150; i++) {
 			String url = "http://www.tv-subs.com/browse/page-" + i;
 			doc = Jsoup.connect(url).timeout(100000 * 1000000).get();
 			Element rows = doc.select("ul").get(0);

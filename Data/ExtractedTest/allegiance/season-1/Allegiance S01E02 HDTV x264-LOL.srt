@@ -1,0 +1,3207 @@
+﻿1
+00:00:01,018 --> 00:00:02,985
+Previously on Allegiance...
+
+2
+00:00:03,020 --> 00:00:05,187
+- Alex O'Connor.
+- You're Bill Adams.
+
+3
+00:00:05,222 --> 00:00:07,657
+Don't use your real name with me.
+
+4
+00:00:07,691 --> 00:00:09,358
+_
+
+5
+00:00:09,393 --> 00:00:11,427
+Our comrades in Moscow have a task for you.
+
+6
+00:00:11,468 --> 00:00:13,770
+You turn your son into a spy.
+
+7
+00:00:13,797 --> 00:00:16,198
+An SVR defector was caught
+last week and dealt with.
+
+8
+00:00:16,233 --> 00:00:18,534
+The man had stolen hundreds
+of thousands of computer files
+
+9
+00:00:18,568 --> 00:00:19,602
+and hid them somewhere.
+
+10
+00:00:19,636 --> 00:00:21,270
+You don't understand Alex.
+
+11
+00:00:21,305 --> 00:00:23,272
+He'll turn us in the moment
+he finds out who we are.
+
+12
+00:00:23,307 --> 00:00:24,974
+Then you're stuck.
+
+13
+00:00:25,008 --> 00:00:27,109
+An SVR officer said he was
+close to launching an operation
+
+14
+00:00:27,144 --> 00:00:28,845
+that would bring America to it's knees.
+
+15
+00:00:28,879 --> 00:00:29,846
+Do you know what an Easter egg is?
+
+16
+00:00:29,880 --> 00:00:31,314
+A hidden digital cache.
+
+17
+00:00:31,348 --> 00:00:32,782
+I think there's a trove of information
+
+18
+00:00:32,816 --> 00:00:34,350
+vital to the SVR still out there.
+
+19
+00:00:34,384 --> 00:00:36,018
+Maybe if we can figure out who Mikhail was,
+
+20
+00:00:36,053 --> 00:00:37,720
+we can find it before the Russians do.
+
+21
+00:00:37,754 --> 00:00:39,989
+_
+
+22
+00:00:40,023 --> 00:00:42,658
+You may actually be crazier than she is.
+
+23
+00:00:42,693 --> 00:00:44,527
+They get what they want from
+Alex without him knowing.
+
+24
+00:00:44,561 --> 00:00:45,995
+He trusts us.
+
+25
+00:00:46,029 --> 00:00:49,031
+We have access to his car,
+his phone, his computer.
+
+26
+00:00:49,066 --> 00:00:50,566
+We're the perfect people to spy on him.
+
+27
+00:00:50,601 --> 00:00:52,301
+Langley has our deceased
+narrowed down to one name:
+
+28
+00:00:52,336 --> 00:00:53,536
+Mikhail Vostrov.
+
+29
+00:00:53,570 --> 00:00:55,371
+I remember one time when I was a kid
+
+30
+00:00:55,405 --> 00:00:58,174
+you called your friend
+Nikolai "Mikhail" by mistake.
+
+31
+00:00:58,208 --> 00:01:00,409
+You can tell me everything,
+or I can turn you in.
+
+32
+00:01:00,444 --> 00:01:02,712
+Hey, Alex. Who died?
+
+33
+00:01:08,218 --> 00:01:10,887
+You can tell me everything
+from the beginning,
+
+34
+00:01:10,921 --> 00:01:14,023
+or I can turn you in.
+
+35
+00:01:14,057 --> 00:01:15,491
+_
+
+36
+00:01:15,526 --> 00:01:17,827
+Everything's fine, Sarah. Go to your room.
+
+37
+00:01:17,861 --> 00:01:20,363
+Seriously? You guys are all crazy...
+
+38
+00:01:20,397 --> 00:01:23,646
+Go to your room, Sarah.
+
+39
+00:01:34,884 --> 00:01:36,847
+Da?
+
+40
+00:01:44,721 --> 00:01:46,538
+_
+
+41
+00:01:48,534 --> 00:01:49,901
+This is impossible.
+
+42
+00:01:49,926 --> 00:01:51,694
+He was like a brother to me growing up.
+
+43
+00:01:51,728 --> 00:01:54,897
+If you grew up with him, then
+you knew his name was Mikhail.
+
+44
+00:01:54,932 --> 00:01:56,198
+Then why did you lie about it?
+
+45
+00:01:56,233 --> 00:02:00,169
+Alex, I lost touch with Mikhail in 1975
+
+46
+00:02:00,203 --> 00:02:04,307
+when I was sent outside Russia
+to go to boarding school.
+
+47
+00:02:04,341 --> 00:02:08,177
+12 years later, I'm walking
+down 5th Avenue with your father,
+
+48
+00:02:08,211 --> 00:02:11,647
+and I see Mikhail across the street.
+
+49
+00:02:11,682 --> 00:02:14,350
+I yelled out his name, I ran to him.
+
+50
+00:02:15,419 --> 00:02:18,154
+Instead of a smile and a hug,
+
+51
+00:02:18,188 --> 00:02:20,656
+he told me that he was living
+here under an assumed name
+
+52
+00:02:20,691 --> 00:02:22,091
+after barely escaping arrest...
+
+53
+00:02:22,125 --> 00:02:23,159
+So the whole house is bugged?
+
+54
+00:02:23,193 --> 00:02:25,461
+_
+
+55
+00:02:28,231 --> 00:02:32,401
+Mikhail is a dissident,
+Alex. He is not a spy.
+
+56
+00:02:32,436 --> 00:02:35,237
+Dissidents don't do the
+things listed in that file.
+
+57
+00:02:35,272 --> 00:02:38,116
+He was no dissident. He was a Russian spy.
+
+58
+00:02:38,141 --> 00:02:40,679
+_
+
+59
+00:02:40,733 --> 00:02:43,021
+_
+
+60
+00:02:43,046 --> 00:02:44,646
+Katya, maybe Alex is right. Maybe he...
+
+61
+00:02:44,681 --> 00:02:48,153
+Wh... what are you talking
+about? You know Mikhail.
+
+62
+00:02:48,885 --> 00:02:50,919
+Well, he bumped into us
+nine months after I started
+
+63
+00:02:50,954 --> 00:02:52,654
+at Roche Aerospace.
+
+64
+00:02:52,689 --> 00:02:54,490
+I just started working on
+their most classified project.
+
+65
+00:02:54,524 --> 00:02:55,954
+No, no. I saw him.
+
+66
+00:02:55,979 --> 00:02:57,595
+He... he didn't bump into me.
+
+67
+00:02:57,620 --> 00:02:59,004
+He put himself where you could see him.
+
+68
+00:02:59,029 --> 00:03:00,262
+I'm calling Mikhail right now.
+
+69
+00:03:00,296 --> 00:03:01,664
+- He won't answer.
+- What?
+
+70
+00:03:01,698 --> 00:03:02,996
+But you know that.
+
+71
+00:03:03,021 --> 00:03:04,822
+Alex, what are you talking about?
+
+72
+00:03:04,847 --> 00:03:07,012
+He's dead. He was executed.
+
+73
+00:03:07,037 --> 00:03:08,203
+What?
+
+74
+00:03:08,238 --> 00:03:10,272
+The SVR discovered he was a traitor.
+
+75
+00:03:10,306 --> 00:03:11,273
+Who?
+
+76
+00:03:11,307 --> 00:03:13,137
+The Sluzhba Vneshney Razvedki.
+
+77
+00:03:13,162 --> 00:03:14,986
+The Russian foreign intelligence service.
+
+78
+00:03:15,011 --> 00:03:17,312
+The KGB rebranded itself after
+the Soviet union broke up,
+
+79
+00:03:17,347 --> 00:03:20,336
+but she knows that
+since she works for them.
+
+80
+00:03:21,057 --> 00:03:23,925
+What is wrong with you?
+
+81
+00:03:23,950 --> 00:03:25,797
+What the...
+
+82
+00:03:25,822 --> 00:03:26,855
+Is wrong with you?
+
+83
+00:03:26,871 --> 00:03:28,722
+_
+
+84
+00:03:28,758 --> 00:03:32,061
+- _
+-  You accuse me of spying for the Russians?
+
+85
+00:03:32,095 --> 00:03:35,154
+Because one time I called
+my old friend by his name?
+
+86
+00:03:35,179 --> 00:03:37,180
+- Because...
+- August 18, 1994.
+
+87
+00:03:37,205 --> 00:03:38,476
+You snuck out of the house at midnight,
+
+88
+00:03:38,501 --> 00:03:39,758
+didn't come back till 5:00 A.M.
+
+89
+00:03:39,783 --> 00:03:41,756
+Your mother was working in
+the ER back then on call.
+
+90
+00:03:41,781 --> 00:03:43,103
+I know.
+
+91
+00:03:43,140 --> 00:03:44,840
+You told me that's where
+you were when you came home
+
+92
+00:03:44,875 --> 00:03:46,650
+and found me waiting at
+the top of the stairs.
+
+93
+00:03:46,675 --> 00:03:47,975
+But Kings County Medical
+Center was evacuated
+
+94
+00:03:48,000 --> 00:03:49,534
+on August 18, 1994.
+
+95
+00:03:49,559 --> 00:03:51,620
+Tropical storm Beryl
+flooded the bottom two floors
+
+96
+00:03:51,645 --> 00:03:52,715
+and blew out all the power.
+
+97
+00:03:52,749 --> 00:03:54,216
+You lied to me.
+
+98
+00:03:54,251 --> 00:03:55,718
+Alex, I know that I wasn't around enough
+
+99
+00:03:55,752 --> 00:03:57,253
+when you were young and struggling.
+
+100
+00:03:57,287 --> 00:03:59,221
+- I know that.
+- June '96, dad was in Beijing.
+
+101
+00:03:59,256 --> 00:04:00,589
+You left me with Natalie to go
+
+102
+00:04:00,624 --> 00:04:02,291
+to a pediatric oncology
+conference in Boston.
+
+103
+00:04:02,325 --> 00:04:03,859
+The conference never happened.
+
+104
+00:04:03,894 --> 00:04:05,261
+It didn't exist. I can keep going.
+
+105
+00:04:05,295 --> 00:04:07,196
+- Stop.
+- Then stop lying to me!
+
+106
+00:04:07,230 --> 00:04:08,531
+Alex, you don't want to know the truth
+
+107
+00:04:08,565 --> 00:04:10,232
+about where I went all those nights.
+
+108
+00:04:10,267 --> 00:04:12,435
+Tell me the truth, or tell the FBI.
+
+109
+00:04:12,469 --> 00:04:15,604
+Your choice.
+
+110
+00:04:15,639 --> 00:04:17,473
+Okay.
+
+111
+00:04:18,436 --> 00:04:20,611
+_
+
+112
+00:04:26,717 --> 00:04:31,320
+I was having an affair.
+
+113
+00:04:34,468 --> 00:04:36,049
+_
+
+114
+00:04:36,074 --> 00:04:37,471
+_
+
+115
+00:04:37,496 --> 00:04:38,995
+_
+
+116
+00:04:40,831 --> 00:04:43,199
+Mark, I'm so sorry.
+
+117
+00:04:43,233 --> 00:04:45,501
+Please tell me that's not true.
+
+118
+00:04:45,535 --> 00:04:49,005
+You were overseas for
+months at a time and...
+
+119
+00:04:49,039 --> 00:04:50,740
+making a living for us.
+
+120
+00:04:50,774 --> 00:04:53,242
+- I was... I was so lonely.
+- Lonely?
+
+121
+00:04:53,277 --> 00:04:54,710
+I was lonely too.
+
+122
+00:04:54,745 --> 00:04:55,878
+I...
+
+123
+00:04:58,782 --> 00:05:00,516
+I'm so ashamed.
+
+124
+00:05:03,687 --> 00:05:07,423
+You wanted the truth, so now you have it.
+
+125
+00:05:09,226 --> 00:05:12,228
+Dad, uh...
+
+126
+00:05:12,272 --> 00:05:13,839
+I'm sorry. I...
+
+127
+00:05:13,864 --> 00:05:16,499
+Alex, please.
+
+128
+00:05:16,533 --> 00:05:19,535
+I think you should go.
+
+129
+00:05:19,560 --> 00:05:22,963
+Your mom and I need to talk.
+
+130
+00:05:32,983 --> 00:05:37,954
+Your mother is very good.
+
+131
+00:05:43,989 --> 00:05:47,944
+- Synced and corrected by martythecrazy -
+- www.addic7ed.com -
+
+132
+00:05:48,194 --> 00:05:50,604
+_
+
+133
+00:05:51,935 --> 00:05:55,438
+_
+
+134
+00:05:55,472 --> 00:05:59,275
+Cheap energy, Wall Street
+gambling, and propaganda
+
+135
+00:05:59,309 --> 00:06:01,410
+are the only things propping it up.
+
+136
+00:06:01,445 --> 00:06:06,315
+This operation will answer the
+American aggression forcefully.
+
+137
+00:06:06,350 --> 00:06:08,651
+Collapsing their economy in a single blow.
+
+138
+00:06:08,685 --> 00:06:10,987
+American influence over
+the world will erode,
+
+139
+00:06:11,021 --> 00:06:13,723
+and we will be able to operate as we wish
+
+140
+00:06:13,757 --> 00:06:17,760
+in the Ukraine, in Europe, and beyond.
+
+141
+00:06:17,794 --> 00:06:20,296
+We are calling it "Black Dagger".
+
+142
+00:06:20,330 --> 00:06:21,998
+Madness.
+
+143
+00:06:22,032 --> 00:06:24,433
+This plan will kill thousands of Americans.
+
+144
+00:06:24,468 --> 00:06:25,935
+Tens of thousands.
+
+145
+00:06:25,969 --> 00:06:30,139
+Madness is the last of Russian sovereignty.
+
+146
+00:06:30,173 --> 00:06:33,142
+Madness is American sanctions forbidding us
+
+147
+00:06:33,176 --> 00:06:34,844
+from accessing our own bank account.
+
+148
+00:06:34,878 --> 00:06:37,780
+Now even in Switzerland.
+
+149
+00:06:37,829 --> 00:06:39,530
+This is madness.
+
+150
+00:06:39,993 --> 00:06:44,191
+_
+
+151
+00:06:45,039 --> 00:06:47,859
+_
+
+152
+00:06:47,958 --> 00:06:49,692
+There is a line, Mr. Bok.
+
+153
+00:06:49,717 --> 00:06:52,152
+Black Dagger crosses it.
+
+154
+00:06:52,195 --> 00:06:55,932
+We're merely answering
+sanctions with sanctions.
+
+155
+00:06:55,966 --> 00:06:59,068
+American sanctions don't
+have a blast radius.
+
+156
+00:07:03,091 --> 00:07:05,290
+_
+
+157
+00:07:12,849 --> 00:07:15,031
+_
+
+158
+00:07:15,085 --> 00:07:16,398
+_
+
+159
+00:07:19,609 --> 00:07:21,063
+_
+
+160
+00:07:36,540 --> 00:07:38,040
+You don't have to destroy the house.
+
+161
+00:07:38,075 --> 00:07:40,543
+I want them gone.
+
+162
+00:07:51,521 --> 00:07:54,690
+I should have come to you first.
+
+163
+00:07:54,725 --> 00:07:57,360
+Everything's going to be all right.
+
+164
+00:07:57,394 --> 00:08:02,064
+Alex knew I was lying about all
+those nights that I wasn't here.
+
+165
+00:08:02,099 --> 00:08:04,166
+I reached for the only explanation
+
+166
+00:08:04,201 --> 00:08:05,167
+that he wouldn't have considered.
+
+167
+00:08:05,202 --> 00:08:07,170
+And it worked.
+
+168
+00:08:07,204 --> 00:08:08,204
+You know what would have happened
+
+169
+00:08:08,238 --> 00:08:09,939
+if you couldn't convince him?
+
+170
+00:08:09,973 --> 00:08:13,342
+The SVR would have killed us.
+
+171
+00:08:13,377 --> 00:08:16,012
+I'm afraid he'll never forgive me.
+
+172
+00:08:16,046 --> 00:08:17,280
+He will.
+
+173
+00:08:21,418 --> 00:08:24,520
+You are his mother.
+
+174
+00:08:24,554 --> 00:08:26,589
+He'll get past it.
+
+175
+00:08:30,594 --> 00:08:32,261
+You're late for work.
+
+176
+00:08:32,296 --> 00:08:34,297
+Go.
+
+177
+00:08:42,906 --> 00:08:44,640
+I'm sorry.
+
+178
+00:08:46,443 --> 00:08:47,843
+I'll see you tonight.
+
+179
+00:08:52,649 --> 00:08:55,551
+Using our K-31 ramjet,
+with the doped fuel mixture,
+
+180
+00:08:55,586 --> 00:08:59,989
+we can produce a block V
+that would fly at Mach 4.75.
+
+181
+00:09:00,023 --> 00:09:02,792
+Same range and payload as the block IVS
+
+182
+00:09:02,826 --> 00:09:05,595
+the Navy's currently using
+but with six times the speed.
+
+183
+00:09:05,629 --> 00:09:07,296
+It's a no-brainer.
+
+184
+00:09:15,706 --> 00:09:18,474
+Alex, how long have I been following you?
+
+185
+00:09:18,508 --> 00:09:19,809
+- What?
+- Three blocks.
+
+186
+00:09:19,843 --> 00:09:21,811
+You looked straight ahead the whole time.
+
+187
+00:09:21,845 --> 00:09:25,948
+I was walking forward.
+
+188
+00:09:25,983 --> 00:09:27,650
+Am I in trouble?
+
+189
+00:09:27,684 --> 00:09:29,919
+I don't know... is there
+something you're not telling me?
+
+190
+00:09:29,953 --> 00:09:31,287
+No.
+
+191
+00:09:31,321 --> 00:09:34,490
+Good. Then stop blabbing and walk with me.
+
+192
+00:09:34,524 --> 00:09:36,158
+Irina's murder convinced Washington
+
+193
+00:09:36,193 --> 00:09:39,262
+that the SVR really is
+planning attack on U.S. soil.
+
+194
+00:09:39,296 --> 00:09:42,298
+DC is setting up a joint
+task force to stop it.
+
+195
+00:09:42,332 --> 00:09:44,767
+You're being detailed to it.
+
+196
+00:09:44,801 --> 00:09:47,309
+Really? And you?
+
+197
+00:09:47,334 --> 00:09:48,935
+Look, I'm just saying, Jeter really was
+
+198
+00:09:48,960 --> 00:09:51,362
+the heart and soul of the team, man.
+
+199
+00:09:51,575 --> 00:09:53,643
+Can't talk shop when a
+stranger's passing nearby.
+
+200
+00:09:53,677 --> 00:09:56,112
+I'll have a kind of observer status.
+
+201
+00:09:56,146 --> 00:09:59,148
+Can't run a New York station
+if I'm assigned to a task force.
+
+202
+00:10:02,586 --> 00:10:04,520
+Since this is a domestic investigation,
+
+203
+00:10:04,554 --> 00:10:06,822
+the Bureau will have
+final say on what you do.
+
+204
+00:10:06,857 --> 00:10:10,726
+But don't forget, you
+still work for me too.
+
+205
+00:10:10,761 --> 00:10:12,361
+We're in here.
+
+206
+00:10:12,396 --> 00:10:13,963
+This is not a government building.
+
+207
+00:10:13,997 --> 00:10:15,331
+Oh, it's not.
+
+208
+00:10:15,365 --> 00:10:17,767
+This is a covert task force, bill.
+
+209
+00:10:24,274 --> 00:10:27,343
+- Hey, Jeff.
+- Sir.
+
+210
+00:10:40,524 --> 00:10:42,525
+Gentlemen.
+
+211
+00:10:49,466 --> 00:10:51,067
+Phone.
+
+212
+00:10:53,971 --> 00:10:56,272
+Come on.
+
+213
+00:11:03,647 --> 00:11:05,414
+Sam, good to see you again.
+
+214
+00:11:05,449 --> 00:11:06,515
+Michelle, keeping out of trouble?
+
+215
+00:11:06,550 --> 00:11:08,551
+Mm, courting it.
+
+216
+00:11:08,585 --> 00:11:10,386
+Ah, this is Alex O'Connor,
+
+217
+00:11:10,420 --> 00:11:12,588
+but out in the world, he's
+in alias as Bill Adams.
+
+218
+00:11:12,623 --> 00:11:14,790
+Isn't that right, Bill?
+
+219
+00:11:14,825 --> 00:11:16,759
+- Michelle Prado.
+- Alex O'Connor.
+
+220
+00:11:16,793 --> 00:11:18,094
+Uh, Adams. Damn it.
+
+221
+00:11:21,164 --> 00:11:24,166
+Let me introduce you
+to Special Agent Brock.
+
+222
+00:11:29,006 --> 00:11:30,640
+Whatever this plot is,
+it appears bad enough
+
+223
+00:11:30,674 --> 00:11:34,944
+to convince two SVR
+lifers to try and defect.
+
+224
+00:11:34,978 --> 00:11:36,212
+Bob?
+
+225
+00:11:39,182 --> 00:11:41,250
+The best plan we have to stop it
+
+226
+00:11:41,285 --> 00:11:43,486
+is to find the SVR files Mikhail stole.
+
+227
+00:11:43,520 --> 00:11:46,756
+His, uh, Easter egg, as it's been called.
+
+228
+00:11:46,790 --> 00:11:48,457
+It means digging deep into Mikhail's life,
+
+229
+00:11:48,492 --> 00:11:50,326
+which we've already begun.
+
+230
+00:11:50,360 --> 00:11:53,062
+As of 20 minutes ago, we
+found Mikhail's apartment,
+
+231
+00:11:53,096 --> 00:11:54,997
+rented under an alias, Carroll Gardens.
+
+232
+00:11:55,032 --> 00:11:56,666
+We're moving on it now.
+
+233
+00:11:56,700 --> 00:11:58,901
+It's guaranteed the SVR has
+already scrubbed the place.
+
+234
+00:11:58,936 --> 00:12:00,136
+And?
+
+235
+00:12:00,170 --> 00:12:01,437
+Let's put a surveillance team on it,
+
+236
+00:12:01,471 --> 00:12:02,972
+see if the Russians send in a second wave.
+
+237
+00:12:03,006 --> 00:12:04,607
+We're not here to sit on our asses, Sam.
+
+238
+00:12:04,641 --> 00:12:06,676
+SVR is planning an attack against us.
+
+239
+00:12:06,710 --> 00:12:09,312
+I know, William. CIA
+supplied the intelligence.
+
+240
+00:12:09,346 --> 00:12:11,614
+And FBI will assume that
+attack is happening today,
+
+241
+00:12:11,648 --> 00:12:14,684
+every day until we stop it.
+
+242
+00:12:14,718 --> 00:12:16,519
+So we move now.
+
+243
+00:12:50,020 --> 00:12:52,155
+Walk with me.
+
+244
+00:12:54,158 --> 00:12:56,792
+You were right.
+
+245
+00:12:56,827 --> 00:12:58,294
+About what?
+
+246
+00:12:58,328 --> 00:13:00,363
+Alex O'Connor.
+
+247
+00:13:00,397 --> 00:13:03,132
+We could never have recruited him.
+
+248
+00:13:03,166 --> 00:13:05,534
+Yesterday he was ready
+to turn his own parents in
+
+249
+00:13:05,569 --> 00:13:08,137
+for being spies.
+
+250
+00:13:08,171 --> 00:13:10,206
+I actually ordered Akos
+to kill the whole family
+
+251
+00:13:10,240 --> 00:13:12,808
+to protect our operations.
+
+252
+00:13:12,843 --> 00:13:17,179
+Of course, you countermanded that.
+
+253
+00:13:17,214 --> 00:13:19,248
+Only because the threat was gone.
+
+254
+00:13:19,283 --> 00:13:21,517
+Katya turned things around.
+
+255
+00:13:21,552 --> 00:13:23,753
+For now.
+
+256
+00:13:23,787 --> 00:13:26,722
+I didn't want to lose Alex as a source.
+
+257
+00:13:26,757 --> 00:13:30,359
+Still, you took it upon yourself
+to determine our priorities.
+
+258
+00:13:37,701 --> 00:13:38,668
+I'm sorry.
+
+259
+00:13:38,702 --> 00:13:41,337
+Don't apologize to me.
+
+260
+00:13:41,371 --> 00:13:43,414
+Apologize to Akos.
+
+261
+00:13:58,388 --> 00:14:00,523
+He disobeyed a direct order.
+
+262
+00:14:00,557 --> 00:14:01,958
+You overstepped your authority.
+
+263
+00:14:01,992 --> 00:14:02,959
+There's a difference.
+
+264
+00:14:02,993 --> 00:14:04,360
+There's...
+
+265
+00:14:04,394 --> 00:14:07,296
+A small difference.
+
+266
+00:14:07,331 --> 00:14:09,738
+_
+
+267
+00:14:09,910 --> 00:14:11,873
+_
+
+268
+00:14:11,998 --> 00:14:13,498
+_
+
+269
+00:14:17,841 --> 00:14:20,376
+As you know, the FBI just
+detailed Alex O'Connor
+
+270
+00:14:20,410 --> 00:14:23,546
+to a task force set up
+to find Mikhail's files.
+
+271
+00:14:23,580 --> 00:14:26,148
+And the bug in Alex's phone cannot transmit
+
+272
+00:14:26,183 --> 00:14:28,918
+from inside their offices.
+
+273
+00:14:28,952 --> 00:14:31,454
+We cannot let them get to
+those files before we do.
+
+274
+00:14:31,488 --> 00:14:34,590
+We need to track their investigation.
+
+275
+00:14:34,625 --> 00:14:37,827
+We need audio in their offices.
+
+276
+00:14:37,861 --> 00:14:41,397
+Inside the office will be very challenging.
+
+277
+00:14:41,431 --> 00:14:44,433
+Should I tell Moscow you're
+unable to rise to the challenge?
+
+278
+00:14:48,305 --> 00:14:49,906
+Perhaps I can get a micro recorder
+
+279
+00:14:49,940 --> 00:14:51,908
+onto Alex O'Connor.
+
+280
+00:14:51,942 --> 00:14:54,143
+Something that can record
+while he's inside the office
+
+281
+00:14:54,177 --> 00:14:57,680
+and burst transmit to us when
+he's outside the building.
+
+282
+00:14:57,714 --> 00:14:59,682
+Good idea.
+
+283
+00:14:59,716 --> 00:15:01,984
+Report back to me when it's done.
+
+284
+00:15:11,662 --> 00:15:12,828
+Completely scrubbed.
+
+285
+00:15:12,863 --> 00:15:14,363
+Nothing at all?
+
+286
+00:15:14,398 --> 00:15:16,599
+A few stray hairs, a few
+shards of what I think
+
+287
+00:15:16,633 --> 00:15:20,002
+is fiberglass from the
+hallway, not much else.
+
+288
+00:15:30,547 --> 00:15:31,714
+Where did you find him?
+
+289
+00:15:31,748 --> 00:15:33,382
+NCS Director.
+
+290
+00:15:33,417 --> 00:15:35,151
+In her infinite wisdom.
+
+291
+00:15:35,185 --> 00:15:37,320
+You should watch him
+debrief a defector someday.
+
+292
+00:15:37,354 --> 00:15:39,188
+I heard about what he did.
+
+293
+00:15:39,222 --> 00:15:41,557
+He's how we found what's
+left of Mikhail's body.
+
+294
+00:15:41,592 --> 00:15:44,126
+And the whole Easter egg theory is his.
+
+295
+00:15:44,161 --> 00:15:48,564
+But he's going to need
+some coaching in the field.
+
+296
+00:15:48,599 --> 00:15:51,801
+I can coach.
+
+297
+00:15:51,835 --> 00:15:54,237
+What?
+
+298
+00:15:54,271 --> 00:15:56,472
+I thought you liked girls.
+
+299
+00:15:56,507 --> 00:15:59,475
+Oh, Sam, you have such
+a constrained view of me.
+
+300
+00:15:59,509 --> 00:16:01,677
+Yeah, you really should
+have joined the Agency.
+
+301
+00:16:01,712 --> 00:16:05,181
+How do you survive at a
+place as stodgy as the FBI?
+
+302
+00:16:16,460 --> 00:16:17,560
+What about him?
+
+303
+00:16:17,594 --> 00:16:19,862
+He's turned away two fares.
+
+304
+00:16:19,897 --> 00:16:21,764
+Could be having his lunch.
+
+305
+00:16:21,798 --> 00:16:23,933
+I don't see him eating.
+
+306
+00:16:27,921 --> 00:16:30,282
+No fare. No fare.
+
+307
+00:16:30,307 --> 00:16:31,273
+I don't want a ride.
+
+308
+00:16:31,308 --> 00:16:33,396
+_
+
+309
+00:17:59,237 --> 00:18:01,171
+He's gotta be SVR.
+
+310
+00:18:01,206 --> 00:18:03,607
+Why would SVR have an officer outside
+
+311
+00:18:03,641 --> 00:18:06,376
+waiting on the inevitable wave
+of federal agents to descend?
+
+312
+00:18:06,411 --> 00:18:07,323
+It's too risky.
+
+313
+00:18:07,345 --> 00:18:08,846
+The cab was stolen.
+
+314
+00:18:08,880 --> 00:18:10,214
+Another risky choice.
+
+315
+00:18:10,248 --> 00:18:12,149
+He kept his face down the entire run.
+
+316
+00:18:12,184 --> 00:18:14,819
+Not a single usable image
+for facial recognition.
+
+317
+00:18:14,853 --> 00:18:16,487
+The cab was clean.
+
+318
+00:18:16,521 --> 00:18:18,389
+Basically we know nothing about this guy.
+
+319
+00:18:18,423 --> 00:18:20,357
+He had sticky fingers.
+
+320
+00:18:20,392 --> 00:18:22,893
+What?
+
+321
+00:18:22,928 --> 00:18:25,062
+There was a discoloration in the pattern
+
+322
+00:18:25,097 --> 00:18:26,530
+on the fingers of his right hand.
+
+323
+00:18:26,565 --> 00:18:28,833
+I think it was from being wrapped in tape.
+
+324
+00:18:28,867 --> 00:18:30,334
+A boxer.
+
+325
+00:18:30,368 --> 00:18:31,836
+The guy could fight.
+
+326
+00:18:31,870 --> 00:18:34,939
+Michelle, get a list of local boxing gyms.
+
+327
+00:18:34,973 --> 00:18:35,940
+A boxer?
+
+328
+00:18:35,974 --> 00:18:39,410
+Well, that's a start.
+
+329
+00:18:39,444 --> 00:18:41,379
+Why don't you go back to
+your hotel and clean up?
+
+330
+00:18:41,413 --> 00:18:43,581
+I don't have any more clean shirts left.
+
+331
+00:18:43,615 --> 00:18:44,949
+I only packed for three days.
+
+332
+00:18:44,983 --> 00:18:46,217
+We're in Manhattan.
+
+333
+00:18:46,251 --> 00:18:48,252
+It is possible to buy more here.
+
+334
+00:18:51,723 --> 00:18:54,558
+So why did you call me, not mom?
+
+335
+00:18:54,593 --> 00:18:56,460
+Mom doesn't pick out my shirts.
+
+336
+00:18:56,495 --> 00:18:58,562
+Not anymore.
+
+337
+00:18:58,597 --> 00:19:01,508
+You mean as of tonight
+when I'm doing it instead?
+
+338
+00:19:01,533 --> 00:19:03,500
+I don't have great taste. So what?
+
+339
+00:19:05,804 --> 00:19:10,007
+I'm just giving you a hard time.
+
+340
+00:19:10,041 --> 00:19:11,175
+I knew that.
+
+341
+00:19:11,209 --> 00:19:12,309
+No, you didn't.
+
+342
+00:19:12,344 --> 00:19:15,346
+But that's okay.
+
+343
+00:19:15,380 --> 00:19:19,884
+How about this one?
+
+344
+00:19:21,353 --> 00:19:23,420
+Pink? Are... are you kidding me?
+
+345
+00:19:23,455 --> 00:19:25,656
+Pink's back.
+
+346
+00:19:25,690 --> 00:19:27,625
+Blue... is blue back too?
+
+347
+00:19:27,659 --> 00:19:30,294
+Blue never went away, but, um,
+
+348
+00:19:30,328 --> 00:19:33,664
+frankly it's about the cut, not the color.
+
+349
+00:19:38,303 --> 00:19:40,871
+So you were going to tell me?
+
+350
+00:19:40,905 --> 00:19:42,973
+Tell you what?
+
+351
+00:19:43,008 --> 00:19:46,543
+What's up with you and mom?
+
+352
+00:19:46,578 --> 00:19:48,512
+It's hard to explain.
+
+353
+00:19:48,546 --> 00:19:51,982
+Then don't explain it,
+just tell me what it is.
+
+354
+00:19:53,985 --> 00:19:56,820
+When we were kids, do you
+remember how much mom was gone?
+
+355
+00:19:59,524 --> 00:20:01,124
+I remember when she was there
+
+356
+00:20:01,159 --> 00:20:04,351
+'cause most of the time she wasn't.
+
+357
+00:20:04,376 --> 00:20:08,612
+Sometimes even in the middle of the night.
+
+358
+00:20:08,637 --> 00:20:11,272
+A lot of times.
+
+359
+00:20:11,297 --> 00:20:16,001
+Dad told me what happened.
+
+360
+00:20:16,216 --> 00:20:18,751
+I can't believe what I did.
+
+361
+00:20:18,855 --> 00:20:20,623
+What's going to happen to mom and dad now?
+
+362
+00:20:20,652 --> 00:20:24,117
+You didn't do anything.
+
+363
+00:20:24,142 --> 00:20:27,310
+I hate to say it, but...
+
+364
+00:20:27,335 --> 00:20:29,336
+But what?
+
+365
+00:20:29,361 --> 00:20:33,731
+Alex, everybody knew
+she was having an affair.
+
+366
+00:20:33,992 --> 00:20:36,326
+- Dad didn't know.
+- Dad didn't want to know then.
+
+367
+00:20:36,361 --> 00:20:37,361
+Well, I didn't know.
+
+368
+00:20:37,395 --> 00:20:39,029
+You were a kid.
+
+369
+00:20:39,063 --> 00:20:42,165
+Mom made mistakes. Now
+she has to pay for them.
+
+370
+00:20:42,190 --> 00:20:44,889
+That's the way life is.
+
+371
+00:20:44,914 --> 00:20:49,018
+Look, Alex, what's between
+mom and dad is their business.
+
+372
+00:20:49,043 --> 00:20:52,946
+If I were you, I would just leave it alone.
+
+373
+00:21:00,018 --> 00:21:02,786
+She had to play it that way, Katya.
+
+374
+00:21:02,821 --> 00:21:04,988
+She didn't have to enjoy it.
+
+375
+00:21:06,591 --> 00:21:11,929
+♪ No, I never heard them at all ♪
+
+376
+00:21:11,963 --> 00:21:17,901
+♪ Till there was you ♪
+
+377
+00:21:19,204 --> 00:21:21,138
+♪ There were birds ♪
+
+378
+00:21:21,172 --> 00:21:23,273
+Dance with me.
+
+379
+00:21:23,308 --> 00:21:26,977
+♪ In the sky ♪
+
+380
+00:21:27,011 --> 00:21:27,978
+♪ But I never ♪
+
+381
+00:21:28,012 --> 00:21:30,314
+I don't think so.
+
+382
+00:21:30,348 --> 00:21:34,251
+Just for a few minutes.
+
+383
+00:21:34,285 --> 00:21:39,122
+Are we really going to do this again?
+
+384
+00:21:39,157 --> 00:21:42,993
+It didn't work out so well last time.
+
+385
+00:21:43,027 --> 00:21:45,529
+Now it...
+
+386
+00:21:45,563 --> 00:21:47,264
+it isn't even safe.
+
+387
+00:21:48,900 --> 00:21:52,036
+Was it ever?
+
+388
+00:21:52,070 --> 00:21:53,937
+It's worse now.
+
+389
+00:21:53,972 --> 00:21:56,340
+Believe me.
+
+390
+00:21:58,209 --> 00:22:00,844
+♪ They tell me ♪
+
+391
+00:22:00,879 --> 00:22:04,415
+Do you ever think about me?
+
+392
+00:22:07,418 --> 00:22:09,119
+It's not enough to make it make sense.
+
+393
+00:22:12,724 --> 00:22:14,458
+When my mother came to me the other day
+
+394
+00:22:14,492 --> 00:22:17,895
+about the family leaving,
+
+395
+00:22:17,929 --> 00:22:21,365
+I said she was crazy.
+
+396
+00:22:21,399 --> 00:22:24,368
+I had a life here, a job,
+
+397
+00:22:24,402 --> 00:22:27,905
+friends, an apartment.
+
+398
+00:22:27,939 --> 00:22:30,874
+I told her I couldn't leave it all.
+
+399
+00:22:33,845 --> 00:22:36,046
+I was talking about you.
+
+400
+00:22:48,259 --> 00:22:49,726
+- Yes?
+- Telecom research.
+
+401
+00:22:49,761 --> 00:22:51,762
+Right, I need a primer on fiber optics.
+
+402
+00:22:51,796 --> 00:22:52,763
+We can do that.
+
+403
+00:22:52,797 --> 00:22:54,865
+Can you hang on a second?
+
+404
+00:22:54,890 --> 00:22:55,890
+_
+
+405
+00:23:03,908 --> 00:23:05,743
+Uh, I'm back.
+
+406
+00:23:05,777 --> 00:23:07,511
+This is Alex O'Connor.
+Please leave a message.
+
+407
+00:23:10,482 --> 00:23:15,018
+Hi, Alex. It's mom.
+
+408
+00:23:15,053 --> 00:23:17,054
+Call me.
+
+409
+00:23:43,655 --> 00:23:46,524
+You're making it harder, Katya.
+
+410
+00:23:46,558 --> 00:23:49,026
+It's my home.
+
+411
+00:23:49,061 --> 00:23:50,461
+Think what you did will stop the rezident
+
+412
+00:23:50,495 --> 00:23:51,963
+from bugging it again?
+
+413
+00:23:51,997 --> 00:23:53,631
+If I find a strange man in my house,
+
+414
+00:23:53,665 --> 00:23:57,468
+he may end up with a bull in his head.
+
+415
+00:23:57,502 --> 00:24:01,405
+My home is off-limits.
+
+416
+00:24:01,440 --> 00:24:03,074
+Alex's new offices are completely
+
+417
+00:24:03,108 --> 00:24:04,475
+walled off electronically.
+
+418
+00:24:04,510 --> 00:24:06,544
+We need to get a micro recorder inside.
+
+419
+00:24:06,578 --> 00:24:08,679
+Good luck.
+
+420
+00:24:08,714 --> 00:24:12,216
+Duplicates of the shirts
+Alex bought tonight.
+
+421
+00:24:12,251 --> 00:24:14,685
+One button on each is a recorder
+with a burst transmitter.
+
+422
+00:24:14,720 --> 00:24:17,088
+It will upload the audio
+when a signal is available.
+
+423
+00:24:17,122 --> 00:24:19,991
+I need you to switch the shirts tonight.
+
+424
+00:24:20,025 --> 00:24:22,059
+Alex isn't even talking to me.
+
+425
+00:24:22,094 --> 00:24:24,395
+You'll figure something out.
+
+426
+00:24:24,429 --> 00:24:27,865
+Yesterday proved you haven't lost a step.
+
+427
+00:24:27,900 --> 00:24:29,534
+An affair?
+
+428
+00:24:29,568 --> 00:24:32,418
+_
+
+429
+00:24:34,538 --> 00:24:39,647
+_
+
+430
+00:24:40,946 --> 00:24:43,614
+I mean it.
+
+431
+00:24:43,649 --> 00:24:47,718
+You are an exceptionally gifted spy, Katya.
+
+432
+00:24:47,753 --> 00:24:50,054
+Accept who you are.
+
+433
+00:24:50,088 --> 00:24:51,989
+Everything will go better for both of us.
+
+434
+00:24:59,498 --> 00:25:00,865
+So we just need to figure out
+
+435
+00:25:00,899 --> 00:25:03,734
+how to get into Alex's hotel room.
+
+436
+00:25:07,906 --> 00:25:10,341
+Are you with me right now?
+
+437
+00:25:11,777 --> 00:25:15,613
+I heard you.
+
+438
+00:25:15,647 --> 00:25:16,948
+What's wrong?
+
+439
+00:25:19,484 --> 00:25:22,286
+When Alex was 12,
+
+440
+00:25:22,321 --> 00:25:26,224
+he was suppose to memorize the
+Gettysburg address for school.
+
+441
+00:25:26,258 --> 00:25:28,559
+Instead he memorized every single speech
+
+442
+00:25:28,593 --> 00:25:31,495
+Lincoln ever gave.
+
+443
+00:25:31,530 --> 00:25:32,797
+In a week, just in case.
+
+444
+00:25:32,831 --> 00:25:34,632
+He remembers everything.
+
+445
+00:25:34,666 --> 00:25:38,669
+Everything from his whole life.
+
+446
+00:25:38,704 --> 00:25:40,471
+And?
+
+447
+00:25:41,473 --> 00:25:42,740
+That night Alex mentioned
+
+448
+00:25:42,774 --> 00:25:44,809
+when you said you were at the hospital,
+
+449
+00:25:44,843 --> 00:25:47,645
+but it was actually flooded,
+
+450
+00:25:47,679 --> 00:25:50,148
+do you remember where you really were?
+
+451
+00:25:52,885 --> 00:25:55,019
+No idea. Why?
+
+452
+00:25:55,053 --> 00:25:57,121
+I was just thinking about it earlier today.
+
+453
+00:25:57,155 --> 00:26:00,424
+That night. The night of the storm.
+
+454
+00:26:00,459 --> 00:26:03,528
+I was in Saudi Arabia
+negotiating a radar sale.
+
+455
+00:26:03,562 --> 00:26:05,329
+CNN reported on it, on the storm.
+
+456
+00:26:05,364 --> 00:26:06,764
+It was bad. I was worried.
+
+457
+00:26:06,798 --> 00:26:08,599
+I called several times. You didn't pick up.
+
+458
+00:26:08,634 --> 00:26:11,302
+Yeah, I made up the affair story, Mark.
+
+459
+00:26:11,336 --> 00:26:13,137
+Okay?
+
+460
+00:26:13,171 --> 00:26:17,174
+And not just to save
+myself but to save you.
+
+461
+00:26:17,209 --> 00:26:19,310
+And Alex hates me because of it.
+
+462
+00:26:19,344 --> 00:26:20,478
+And now you're gonna turn on me?
+
+463
+00:26:20,512 --> 00:26:21,979
+I just asked a question, Katya.
+
+464
+00:26:22,014 --> 00:26:25,316
+Well, we don't have time for questions.
+
+465
+00:26:25,350 --> 00:26:26,851
+Here's what I remember.
+
+466
+00:26:26,885 --> 00:26:28,553
+I remember the deal
+that we made with Victor,
+
+467
+00:26:28,587 --> 00:26:30,188
+the deal that you forced me to make,
+
+468
+00:26:30,222 --> 00:26:32,957
+saying we had access to
+Alex's car, his phone,
+
+469
+00:26:32,991 --> 00:26:34,292
+- his computer...
+- We had no other option.
+
+470
+00:26:34,326 --> 00:26:35,860
+You could have let me turn myself in.
+
+471
+00:26:35,894 --> 00:26:37,128
+And destroy our family?
+
+472
+00:26:37,162 --> 00:26:40,163
+That's not a choice you get to make.
+
+473
+00:26:45,571 --> 00:26:47,972
+We get what the SVR needs,
+
+474
+00:26:48,006 --> 00:26:51,075
+or they go after Alex directly.
+
+475
+00:26:54,746 --> 00:26:59,650
+What words do you need me to say, Mark?
+
+476
+00:26:59,685 --> 00:27:03,154
+That I didn't cheat on you?
+
+477
+00:27:03,188 --> 00:27:06,090
+I didn't.
+
+478
+00:27:06,124 --> 00:27:08,259
+I didn't have an affair.
+
+479
+00:27:12,598 --> 00:27:16,534
+The affair was so long ago, I
+almost forgot that it happened.
+
+480
+00:27:16,568 --> 00:27:19,503
+How do you forget something like that?
+
+481
+00:27:19,538 --> 00:27:23,374
+If you don't want to remember.
+
+482
+00:27:23,408 --> 00:27:25,676
+- This doesn't...
+- It... it was a mistake.
+
+483
+00:27:25,711 --> 00:27:29,680
+It just doesn't seem like you.
+
+484
+00:27:29,715 --> 00:27:30,781
+It is me.
+
+485
+00:27:33,552 --> 00:27:36,554
+Your father was traveling so much then.
+
+486
+00:27:36,580 --> 00:27:38,478
+I felt neglected.
+
+487
+00:27:38,643 --> 00:27:41,078
+But that's... it's not a excuse.
+
+488
+00:27:41,103 --> 00:27:44,138
+There is no excuse.
+
+489
+00:27:44,163 --> 00:27:47,365
+And the worst thing about
+it is that it took time
+
+490
+00:27:47,399 --> 00:27:49,967
+away from you and Natalie.
+
+491
+00:27:50,002 --> 00:27:51,202
+I hurt you then,
+
+492
+00:27:51,236 --> 00:27:56,707
+and to be doing that again now,
+
+493
+00:27:56,742 --> 00:27:58,576
+I feel horrible.
+
+494
+00:28:07,986 --> 00:28:09,187
+Alex...
+
+495
+00:28:09,221 --> 00:28:11,689
+Do you remember when you were young
+
+496
+00:28:11,723 --> 00:28:14,459
+how much you loved the Carnegie Deli?
+
+497
+00:28:14,493 --> 00:28:17,195
+It's right around the corner.
+
+498
+00:28:17,229 --> 00:28:19,297
+Mom, I can't. I have to work.
+
+499
+00:28:19,331 --> 00:28:21,499
+You have to eat.
+
+500
+00:28:24,503 --> 00:28:26,604
+Okay.
+
+501
+00:28:36,048 --> 00:28:39,050
+I'm not the mother I wanted to be, Alex.
+
+502
+00:28:39,084 --> 00:28:42,086
+I'm sorry.
+
+503
+00:28:42,121 --> 00:28:44,355
+I love you, mama.
+
+504
+00:29:07,725 --> 00:29:09,759
+We went through every frame of footage
+
+505
+00:29:09,784 --> 00:29:11,637
+from every surveillance
+camera in the area again.
+
+506
+00:29:11,662 --> 00:29:13,830
+Nothing, no prints on
+the cab, inside or out.
+
+507
+00:29:13,864 --> 00:29:16,399
+Great... a dozen of the top
+counterintelligence agents
+
+508
+00:29:16,433 --> 00:29:18,165
+in the Bureau, blank check for a budget,
+
+509
+00:29:18,190 --> 00:29:20,403
+the entire U.S. Intelligence
+Community on tap,
+
+510
+00:29:20,437 --> 00:29:23,005
+and we're reduced to sweeping
+local gyms for Russian boxers.
+
+511
+00:29:23,040 --> 00:29:24,407
+We should stop doing that.
+
+512
+00:29:24,441 --> 00:29:25,942
+Our cabbie's not a boxer.
+
+513
+00:29:25,976 --> 00:29:27,477
+The tape residue was
+only on his right hand,
+
+514
+00:29:27,511 --> 00:29:28,611
+and I think our guy's left-handed.
+
+515
+00:29:28,645 --> 00:29:29,979
+Based on what?
+
+516
+00:29:30,013 --> 00:29:31,748
+During the foot chase,
+he went left four times
+
+517
+00:29:31,782 --> 00:29:33,483
+are right twice before we lost him.
+
+518
+00:29:33,517 --> 00:29:34,984
+A review of the video
+cameras that caught him
+
+519
+00:29:35,018 --> 00:29:36,285
+before he disappeared into the subway
+
+520
+00:29:36,320 --> 00:29:37,754
+showed three more lefts and no rights.
+
+521
+00:29:37,788 --> 00:29:39,522
+He went left seven times and right twice.
+
+522
+00:29:39,556 --> 00:29:41,190
+And that means he's left-handed?
+
+523
+00:29:41,225 --> 00:29:42,759
+More than likely, yes,
+according to the literature
+
+524
+00:29:42,793 --> 00:29:43,760
+on unconscious biases,
+
+525
+00:29:43,794 --> 00:29:44,961
+and that got me thinking.
+
+526
+00:29:44,995 --> 00:29:46,462
+I mean, I couldn't stop thinking
+
+527
+00:29:46,497 --> 00:29:48,097
+about the fiberglass shards
+we found in the hallway
+
+528
+00:29:48,132 --> 00:29:50,166
+outside Mikhail's apartment...
+they were high quality.
+
+529
+00:29:50,200 --> 00:29:51,768
+Something called
+siprnet-grade fiber optics
+
+530
+00:29:51,802 --> 00:29:53,390
+according to our techs.
+
+531
+00:29:53,415 --> 00:29:56,025
+Last night I spoke to a CIA
+S&T expert about fiber optics.
+
+532
+00:29:56,050 --> 00:29:58,484
+Turns out fiber optics
+engineers wear double-sided tape
+
+533
+00:29:58,509 --> 00:29:59,976
+on their non dominant
+hand to protect themselves
+
+534
+00:30:00,010 --> 00:30:02,011
+from fiberglass shards
+embedding in the skin.
+
+535
+00:30:02,046 --> 00:30:03,713
+And then there are his
+glasses. They're unusual.
+
+536
+00:30:03,747 --> 00:30:05,648
+The lenses have an optical density of 4+
+
+537
+00:30:05,683 --> 00:30:07,116
+in the 850 to 1,700 nanometer range.
+
+538
+00:30:07,151 --> 00:30:10,319
+Take a breath, Alex.
+
+539
+00:30:10,354 --> 00:30:13,189
+Uh, right.
+
+540
+00:30:13,223 --> 00:30:16,492
+850 to 1,700 nanometers is
+the most common wavelengths
+
+541
+00:30:16,527 --> 00:30:18,795
+encountered in fiber optics applications.
+
+542
+00:30:18,829 --> 00:30:20,229
+Are you talking about his work?
+
+543
+00:30:20,264 --> 00:30:22,365
+Yes.
+
+544
+00:30:22,399 --> 00:30:25,368
+He lays fiber optic cable for a living.
+
+545
+00:30:25,402 --> 00:30:27,203
+And given the particular
+grade of his equipment,
+
+546
+00:30:27,237 --> 00:30:29,072
+I say he does so for a
+data management company
+
+547
+00:30:29,106 --> 00:30:30,506
+or a high-end security firm.
+
+548
+00:30:30,541 --> 00:30:32,208
+There have to be dozens
+of firms that do that
+
+549
+00:30:32,242 --> 00:30:33,209
+in the tri-state area.
+
+550
+00:30:33,243 --> 00:30:34,477
+52.
+
+551
+00:30:34,511 --> 00:30:36,679
+How many of them have Russian employees?
+
+552
+00:30:36,714 --> 00:30:38,047
+I don't know.
+
+553
+00:30:38,082 --> 00:30:39,849
+But the cabbie's accent was Georgian,
+
+554
+00:30:39,883 --> 00:30:41,384
+and only one of those firms
+employees a Georgian national.
+
+555
+00:30:41,418 --> 00:30:43,486
+His name is Vasso Matiashvili.
+
+556
+00:30:43,520 --> 00:30:45,588
+All that from one all-nighter?
+
+557
+00:30:45,623 --> 00:30:47,356
+No, I slept.
+
+558
+00:30:47,391 --> 00:30:48,992
+The firm says he works from a home office,
+
+559
+00:30:49,026 --> 00:30:51,227
+but they wouldn't give me an address.
+
+560
+00:30:51,261 --> 00:30:52,261
+We're gonna need a warrant.
+
+561
+00:30:52,296 --> 00:30:53,396
+No way a cyber-security firm
+
+562
+00:30:53,437 --> 00:30:54,671
+opens up their personnel files
+
+563
+00:30:54,698 --> 00:30:55,943
+out of the goodness of their heart.
+
+564
+00:30:55,968 --> 00:30:58,803
+I'll walk it into the
+U.S. Attorney's office.
+
+565
+00:30:58,828 --> 00:31:01,129
+You go with her.
+
+566
+00:31:10,714 --> 00:31:12,782
+Do I have food in my teeth or something?
+
+567
+00:31:12,816 --> 00:31:15,385
+No. Uh, no.
+
+568
+00:31:23,961 --> 00:31:28,078
+_
+
+569
+00:31:36,140 --> 00:31:39,409
+You okay?
+
+570
+00:31:39,443 --> 00:31:40,610
+Yeah.
+
+571
+00:31:40,644 --> 00:31:42,745
+You're protecting him, dad.
+
+572
+00:31:42,780 --> 00:31:45,048
+The truth would destroy him.
+
+573
+00:31:45,082 --> 00:31:48,718
+Well, the lies might destroy me.
+
+574
+00:31:48,752 --> 00:31:52,055
+They don't come naturally to you
+
+575
+00:31:52,089 --> 00:31:54,891
+like they do to mom.
+
+576
+00:31:54,925 --> 00:31:56,159
+What's that supposed to mean?
+
+577
+00:31:56,193 --> 00:31:58,728
+Forget it.
+
+578
+00:31:58,762 --> 00:32:01,564
+You think she had an affair?
+
+579
+00:32:01,598 --> 00:32:03,399
+I don't know.
+
+580
+00:32:03,434 --> 00:32:04,901
+It's none of my business.
+
+581
+00:32:04,935 --> 00:32:07,804
+No, it's not.
+
+582
+00:32:20,184 --> 00:32:22,318
+Are you uncomfortable?
+
+583
+00:32:22,353 --> 00:32:25,588
+I don't like vinyl surfaces.
+
+584
+00:32:25,623 --> 00:32:26,589
+No one does, really.
+
+585
+00:32:26,623 --> 00:32:27,924
+According to his file,
+
+586
+00:32:27,958 --> 00:32:29,992
+Mikhail was in internal
+counterintelligence.
+
+587
+00:32:30,027 --> 00:32:31,928
+He didn't have any computer skills really
+
+588
+00:32:31,962 --> 00:32:34,063
+at all.
+
+589
+00:32:34,965 --> 00:32:37,533
+That was in his file?
+
+590
+00:32:39,903 --> 00:32:41,671
+I really don't like these seats.
+
+591
+00:32:41,705 --> 00:32:42,866
+It's a government car.
+
+592
+00:32:42,891 --> 00:32:44,325
+You're not supposed to
+like anything about it.
+
+593
+00:32:44,808 --> 00:32:45,775
+And I think it's leather, actually.
+
+594
+00:32:45,809 --> 00:32:46,776
+No, it's vinyl.
+
+595
+00:32:46,810 --> 00:32:49,212
+And it wasn't in his file.
+
+596
+00:32:49,246 --> 00:32:50,513
+But you don't need computer skills
+
+597
+00:32:50,547 --> 00:32:51,714
+to be in counterintelligence.
+
+598
+00:32:51,749 --> 00:32:54,017
+You need to have a nose for defectors.
+
+599
+00:32:54,051 --> 00:32:55,051
+Okay, what does that mean?
+
+600
+00:32:56,086 --> 00:32:59,989
+I don't know yet.
+
+601
+00:33:00,024 --> 00:33:03,726
+He lays fiber optic cable for a living.
+
+602
+00:33:05,029 --> 00:33:08,831
+Any idea who he's talking about?
+
+603
+00:33:08,866 --> 00:33:11,300
+Vasso Matiashvili.
+
+604
+00:33:11,335 --> 00:33:13,903
+We recruited him from a
+Georgian paramilitary unit
+
+605
+00:33:13,937 --> 00:33:15,038
+ten years ago.
+
+606
+00:33:15,072 --> 00:33:16,406
+Came to America on a work VISA,
+
+607
+00:33:16,440 --> 00:33:18,207
+we placed him in corporate security.
+
+608
+00:33:18,242 --> 00:33:20,410
+What was he doing hovering
+around Mikhail's apartment
+
+609
+00:33:20,444 --> 00:33:22,311
+pretending to be a cab driver?
+
+610
+00:33:22,346 --> 00:33:25,081
+I plan to ask him that.
+
+611
+00:33:25,115 --> 00:33:28,739
+_
+
+612
+00:33:28,764 --> 00:33:30,396
+_
+
+613
+00:33:32,790 --> 00:33:35,625
+We've been here for four
+hours. How much longer?
+
+614
+00:33:38,629 --> 00:33:39,929
+Really?
+
+615
+00:33:39,963 --> 00:33:41,698
+Fine.
+
+616
+00:33:41,732 --> 00:33:45,635
+It's just a warrant. What
+takes these judges so long?
+
+617
+00:33:57,448 --> 00:33:58,748
+Hello?
+
+618
+00:33:58,782 --> 00:34:00,049
+Getting that warrant
+
+619
+00:34:00,084 --> 00:34:02,418
+isn't going to help you find me.
+
+620
+00:34:02,453 --> 00:34:05,788
+If you want to talk, do as I say.
+
+621
+00:34:05,823 --> 00:34:07,724
+Vasso?
+
+622
+00:34:07,758 --> 00:34:11,094
+Toss the batteries from your
+cell phones out the window.
+
+623
+00:34:11,128 --> 00:34:13,630
+I'm tracking the MSID pings.
+
+624
+00:34:13,664 --> 00:34:16,232
+I'll know if you've complied.
+
+625
+00:34:16,266 --> 00:34:17,800
+And if we don't?
+
+626
+00:34:17,835 --> 00:34:19,130
+I hang up,
+
+627
+00:34:19,155 --> 00:34:21,323
+and you'll never know
+what I know about Mikhail.
+
+628
+00:34:31,515 --> 00:34:33,049
+So let's talk.
+
+629
+00:34:33,083 --> 00:34:35,485
+Drive across the Williamsburg Bridge.
+
+630
+00:34:35,519 --> 00:34:39,389
+Park on 11th.
+
+631
+00:34:39,423 --> 00:34:40,890
+We could be driving into a trap.
+
+632
+00:34:40,924 --> 00:34:42,458
+If he wanted us dead, he'd have put
+
+633
+00:34:42,493 --> 00:34:45,161
+a bomb in the car, not a cell phone.
+
+634
+00:34:45,205 --> 00:34:48,574
+I don't think he wants
+to kill us or anyone.
+
+635
+00:34:48,599 --> 00:34:50,500
+So what does he want then?
+
+636
+00:34:50,541 --> 00:34:52,676
+I think he wants to defect.
+
+637
+00:34:52,703 --> 00:34:55,685
+_
+
+638
+00:34:58,642 --> 00:35:00,310
+He's with two federal agents.
+How are they going to grab him?
+
+639
+00:35:00,344 --> 00:35:01,344
+Carefully.
+
+640
+00:35:01,629 --> 00:35:03,813
+_
+
+641
+00:35:03,838 --> 00:35:04,923
+_
+
+642
+00:35:04,948 --> 00:35:06,983
+Use force against U.S. federal agents
+
+643
+00:35:07,017 --> 00:35:08,418
+in their own country?
+
+644
+00:35:08,452 --> 00:35:10,086
+This is a line Moscow has never crossed.
+
+645
+00:35:10,120 --> 00:35:11,254
+I don't think you understand
+the stakes, Victor.
+
+646
+00:35:11,288 --> 00:35:12,522
+I do.
+
+647
+00:35:12,556 --> 00:35:15,358
+If it goes wrong, if they end up dead,
+
+648
+00:35:15,392 --> 00:35:17,026
+that's the kind of thing that
+could restart the cold war.
+
+649
+00:35:17,061 --> 00:35:19,829
+If the Americans get their
+hands on the files Mikhail stole,
+
+650
+00:35:19,863 --> 00:35:22,765
+it will start an actual war.
+
+651
+00:35:22,800 --> 00:35:24,334
+We need Vasso.
+
+652
+00:35:24,368 --> 00:35:26,268
+At any cost.
+
+653
+00:35:36,536 --> 00:35:38,170
+Where are they?
+
+654
+00:35:38,205 --> 00:35:40,506
+11th Street in Brooklyn,
+but that's just a first stop.
+
+655
+00:35:40,550 --> 00:35:41,917
+Where after that?
+
+656
+00:35:41,942 --> 00:35:43,075
+I don't know,
+
+657
+00:35:43,110 --> 00:35:47,046
+but it feels like a trap.
+
+658
+00:35:50,183 --> 00:35:51,250
+We're in Brooklyn.
+
+659
+00:35:51,285 --> 00:35:52,603
+Yes, I know.
+
+660
+00:35:52,628 --> 00:35:54,708
+Southwest Corner of the
+Old Brooklyn Navy Yard.
+
+661
+00:35:54,733 --> 00:35:57,232
+Bond Street's the fastest
+way to the Navy Yard.
+
+662
+00:35:57,257 --> 00:35:58,524
+No, there's construction at Livingston.
+
+663
+00:35:58,558 --> 00:36:00,726
+We'll get stuck.
+
+664
+00:36:05,245 --> 00:36:07,253
+_
+
+665
+00:36:24,585 --> 00:36:26,285
+You ready for this?
+
+666
+00:36:33,560 --> 00:36:37,063
+That was a gunshot. Go, go, go!
+
+667
+00:36:45,105 --> 00:36:46,372
+Put your weapon away,
+
+668
+00:36:46,406 --> 00:36:50,109
+or this will be a very short meeting.
+
+669
+00:36:55,983 --> 00:36:57,283
+Building 17.
+
+670
+00:36:57,317 --> 00:36:59,051
+Half mile down this road.
+
+671
+00:36:59,086 --> 00:37:01,087
+Come on foot.
+
+672
+00:37:05,320 --> 00:37:07,001
+What is your eta on site?
+
+673
+00:37:07,026 --> 00:37:08,039
+_
+
+674
+00:37:08,064 --> 00:37:10,032
+You have to move faster.
+
+675
+00:37:23,176 --> 00:37:24,877
+Where's Mikhail?
+
+676
+00:37:24,911 --> 00:37:26,078
+Did he defect?
+
+677
+00:37:26,112 --> 00:37:28,180
+He's dead.
+
+678
+00:37:28,214 --> 00:37:29,248
+When?
+
+679
+00:37:29,282 --> 00:37:30,416
+Three days ago.
+
+680
+00:37:30,450 --> 00:37:32,888
+Killed by the SVR.
+
+681
+00:37:33,820 --> 00:37:35,254
+It was you.
+
+682
+00:37:35,288 --> 00:37:37,122
+You stole the SVR's files, not Mikhail.
+
+683
+00:37:37,157 --> 00:37:40,784
+_
+
+684
+00:37:40,809 --> 00:37:42,427
+_
+
+685
+00:37:42,452 --> 00:37:44,439
+_
+
+686
+00:37:44,464 --> 00:37:46,226
+English, Alex.
+
+687
+00:37:46,353 --> 00:37:47,953
+Mikhail disappeared.
+
+688
+00:37:47,978 --> 00:37:51,714
+I was outside of his
+apartment hoping he'd show up.
+
+689
+00:37:51,938 --> 00:37:53,973
+I stole the files.
+
+690
+00:37:54,007 --> 00:37:55,107
+Mikhail caught me.
+
+691
+00:37:55,141 --> 00:37:56,675
+But he didn't turn you in. Why?
+
+692
+00:37:56,710 --> 00:37:58,510
+Because of what I found in them.
+
+693
+00:37:58,545 --> 00:38:00,512
+The SVR operation against America?
+
+694
+00:38:00,547 --> 00:38:02,848
+They're calling it "Black Dagger."
+
+695
+00:38:02,883 --> 00:38:04,650
+I don't know the operation specifics,
+
+696
+00:38:04,684 --> 00:38:07,052
+but the scope is monumental.
+
+697
+00:38:21,034 --> 00:38:23,636
+I didn't sign up to kill innocent people
+
+698
+00:38:23,670 --> 00:38:25,137
+or do something that will start a war
+
+699
+00:38:25,171 --> 00:38:26,438
+between our countries.
+
+700
+00:38:26,473 --> 00:38:28,040
+Why would Moscow do this?
+
+701
+00:38:29,809 --> 00:38:32,011
+It's not Moscow,
+
+702
+00:38:32,045 --> 00:38:35,147
+at least not the political
+authorities in Moscow.
+
+703
+00:38:35,181 --> 00:38:37,016
+What are you saying?
+
+704
+00:38:37,050 --> 00:38:39,518
+That the Kremlin's lost control of the SVR.
+
+705
+00:38:39,553 --> 00:38:42,039
+_
+
+706
+00:38:42,064 --> 00:38:44,183
+_
+
+707
+00:38:44,183 --> 00:38:45,278
+_
+
+708
+00:38:45,303 --> 00:38:46,999
+_
+
+709
+00:38:47,694 --> 00:38:50,162
+Mikhail secured new aliases for us.
+
+710
+00:38:50,197 --> 00:38:52,564
+Aliases the SVR was unaware of.
+
+711
+00:38:52,590 --> 00:38:55,292
+He was about to make
+contact with the Americans.
+
+712
+00:38:55,335 --> 00:38:57,503
+Offering to trade the files I downloaded.
+
+713
+00:38:57,537 --> 00:38:58,904
+Where are the files now?
+
+714
+00:38:58,939 --> 00:38:59,905
+They're on an encrypted hard drive
+
+715
+00:38:59,939 --> 00:39:01,240
+secured inside a laptop.
+
+716
+00:39:01,274 --> 00:39:02,908
+Take us there. We'll protect you.
+
+717
+00:39:02,943 --> 00:39:05,678
+I don't know where it is.
+
+718
+00:39:05,712 --> 00:39:06,679
+What?
+
+719
+00:39:06,713 --> 00:39:08,981
+I gave it to Mikhail to hide.
+
+720
+00:39:09,015 --> 00:39:10,482
+Only he knows where it is.
+
+721
+00:39:10,526 --> 00:39:12,327
+Only I know the password to open the drive
+
+722
+00:39:12,352 --> 00:39:13,319
+and how to stop the deletion timer.
+
+723
+00:39:13,353 --> 00:39:14,520
+Deletion timer?
+
+724
+00:39:14,554 --> 00:39:16,855
+I uploaded a virus onto the laptop,
+
+725
+00:39:16,890 --> 00:39:18,390
+one that will auto-delete the files.
+
+726
+00:39:18,425 --> 00:39:20,192
+It was a safeguard against either of us
+
+727
+00:39:20,226 --> 00:39:22,089
+betraying the other.
+
+728
+00:39:23,630 --> 00:39:25,437
+How long?
+
+729
+00:39:25,462 --> 00:39:26,970
+48 hours.
+
+730
+00:39:32,639 --> 00:39:34,507
+What's wrong?
+
+731
+00:39:34,541 --> 00:39:37,240
+- Someone's out there.
+- Don't. Don't.
+
+732
+00:39:42,640 --> 00:39:44,507
+Give me the phone.
+
+733
+00:39:46,786 --> 00:39:48,520
+911, where's your emergency?
+
+734
+00:39:48,555 --> 00:39:50,189
+Brooklyn Navy Yard. Building 17.
+
+735
+00:39:50,223 --> 00:39:52,892
+Multiple shots fired.
+Federal agent requesting help.
+
+736
+00:40:05,572 --> 00:40:07,773
+Move him away from the door.
+
+737
+00:40:15,705 --> 00:40:17,650
+We got to hold them off for
+three or four minutes tops
+
+738
+00:40:17,684 --> 00:40:19,385
+until NYPD gets here.
+
+739
+00:40:20,420 --> 00:40:23,455
+You know how to use that?
+
+740
+00:40:23,490 --> 00:40:24,957
+- Not really.
+- Well, get it.
+
+741
+00:40:24,991 --> 00:40:26,525
+And don't point it at me.
+
+742
+00:40:33,934 --> 00:40:36,469
+Get down!
+
+743
+00:40:41,441 --> 00:40:43,722
+_
+
+744
+00:40:44,456 --> 00:40:46,180
+_
+
+745
+00:40:46,205 --> 00:40:48,280
+_
+
+746
+00:40:48,384 --> 00:40:52,713
+_
+
+747
+00:40:52,753 --> 00:40:54,553
+I'm going to tourniquet your shoulder.
+
+748
+00:41:00,727 --> 00:41:02,261
+Oh.
+
+749
+00:41:02,295 --> 00:41:03,996
+Uh...
+
+750
+00:41:04,030 --> 00:41:05,431
+You want to make the
+people who did this pay,
+
+751
+00:41:05,465 --> 00:41:07,166
+we need to find the hard
+drive with your files.
+
+752
+00:41:07,200 --> 00:41:08,473
+How?
+
+753
+00:41:08,498 --> 00:41:10,579
+The aliases Mikhail didn't
+tell the SVR about...
+
+754
+00:41:10,604 --> 00:41:11,943
+he must have used them in hiding the drive.
+
+755
+00:41:11,968 --> 00:41:14,069
+Give them to us. We'll find it.
+
+756
+00:41:17,021 --> 00:41:18,855
+First alias:
+
+757
+00:41:19,079 --> 00:41:21,280
+Vladimir Kuznetsov.
+
+758
+00:41:22,949 --> 00:41:25,184
+Second alias:
+
+759
+00:41:25,218 --> 00:41:27,353
+Anatoly Motinkin.
+
+760
+00:41:27,387 --> 00:41:29,566
+_
+
+761
+00:41:29,605 --> 00:41:31,621
+_
+
+762
+00:41:31,646 --> 00:41:34,233
+_
+
+763
+00:41:46,517 --> 00:41:50,290
+- Synced and corrected by martythecrazy -
+- www.addic7ed.com -
+

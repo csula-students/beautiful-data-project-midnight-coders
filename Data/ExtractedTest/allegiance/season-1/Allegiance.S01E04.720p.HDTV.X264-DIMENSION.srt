@@ -1,0 +1,2946 @@
+1
+00:00:01,450 --> 00:00:03,536
+Previously on Allegiance...
+
+2
+00:00:03,561 --> 00:00:05,423
+You turn your son into a spy.
+
+3
+00:00:05,448 --> 00:00:07,086
+An SVR officer said he was close
+
+4
+00:00:07,111 --> 00:00:09,684
+to launching an operation that
+would bring America to its knees.
+
+5
+00:00:09,709 --> 00:00:10,968
+They're calling it Black Dagger.
+
+6
+00:00:10,993 --> 00:00:13,179
+D.C. is setting up a joint
+task force to stop it.
+
+7
+00:00:13,204 --> 00:00:14,670
+The best plan we have to stop it
+
+8
+00:00:14,695 --> 00:00:16,361
+is to find the SVR files Miguel stole.
+
+9
+00:00:16,386 --> 00:00:19,186
+His, uh, Easter Egg, as it's been called.
+
+10
+00:00:19,295 --> 00:00:21,662
+Tell me the truth or tell the FBI.
+
+11
+00:00:21,697 --> 00:00:22,816
+I was having an affair.
+
+12
+00:00:22,841 --> 00:00:25,007
+Yeah, I made up the affair story, Mark.
+
+13
+00:00:25,032 --> 00:00:26,914
+- Okay?
+- Where are the files now?
+
+14
+00:00:26,939 --> 00:00:29,372
+They're on an encrypted hard
+drive, secure inside a laptop.
+
+15
+00:00:29,397 --> 00:00:31,330
+Only I know how to stop the deletion timer.
+
+16
+00:00:31,355 --> 00:00:32,883
+The laptop with the SVR files,
+
+17
+00:00:32,908 --> 00:00:34,808
+Miguel hid it in Philadelphia City Hall.
+
+18
+00:00:34,833 --> 00:00:35,774
+If Alex beats you to that laptop,
+
+19
+00:00:35,799 --> 00:00:37,299
+you'll all be dead.
+
+20
+00:00:37,324 --> 00:00:40,058
+We need your help to make
+a copy of the disk drive,
+
+21
+00:00:40,083 --> 00:00:41,415
+remotely, from here.
+
+22
+00:00:41,440 --> 00:00:43,571
+And then we're gonna trade it for immunity.
+
+23
+00:00:44,960 --> 00:00:46,793
+- We got it.
+- There's nothing here.
+
+24
+00:00:46,818 --> 00:00:48,852
+The SVR got here first.
+
+25
+00:00:55,775 --> 00:00:57,108
+Come on. We're pulling out.
+
+26
+00:00:57,133 --> 00:00:58,540
+No, look, there's a crawl space.
+
+27
+00:00:58,565 --> 00:01:00,295
+Alex, there's no evidence of a break-in.
+
+28
+00:01:00,320 --> 00:01:02,053
+Oh, we have to see what's up there.
+
+29
+00:01:03,623 --> 00:01:05,623
+Prado, O'Connor. Let's go!
+
+30
+00:01:09,732 --> 00:01:11,431
+Get off the ladder, O'Connor.
+
+31
+00:01:11,456 --> 00:01:13,589
+We're not gonna compound your
+screwup by getting caught.
+
+32
+00:01:13,614 --> 00:01:14,731
+No, I just, I...
+
+33
+00:01:14,756 --> 00:01:16,329
+Get the hell off the ladder now! Move!
+
+34
+00:01:16,354 --> 00:01:18,414
+Uh... okay.
+
+35
+00:01:29,898 --> 00:01:31,625
+_
+
+36
+00:01:31,650 --> 00:01:33,229
+Oh, no...
+
+37
+00:01:34,266 --> 00:01:35,800
+What are you doing here?
+
+38
+00:01:35,825 --> 00:01:36,687
+Didn't you hear?
+
+39
+00:01:36,713 --> 00:01:38,469
+There's a gas leak downstairs.
+
+40
+00:01:38,494 --> 00:01:40,560
+Gas leak?
+
+41
+00:01:43,912 --> 00:01:45,278
+What's going on?
+
+42
+00:01:45,314 --> 00:01:46,899
+We're stuck in the rafters.
+
+43
+00:01:46,924 --> 00:01:48,883
+The Rezident just told me.
+
+44
+00:01:48,908 --> 00:01:50,225
+Well, how does he know that?
+
+45
+00:01:50,250 --> 00:01:51,631
+I don't know.
+
+46
+00:01:51,656 --> 00:01:52,940
+He clearly has an asset inside,
+
+47
+00:01:52,965 --> 00:01:54,764
+maybe even on the FBI team.
+
+48
+00:01:54,964 --> 00:01:56,280
+How soon can you get out of there?
+
+49
+00:01:56,305 --> 00:01:58,535
+I don't know. It looks
+like there's a way out
+
+50
+00:01:58,560 --> 00:02:00,319
+through the Mayor's Press Room, but...
+
+51
+00:02:00,931 --> 00:02:02,940
+he's in the middle of a speech right now.
+
+52
+00:02:02,965 --> 00:02:05,399
+Proudly continue to
+strive to be the great city
+
+53
+00:02:05,434 --> 00:02:06,700
+that we want to be.
+
+54
+00:02:06,735 --> 00:02:08,998
+To have the future we deserve.
+
+55
+00:02:09,023 --> 00:02:11,056
+For generations of tomorrow,
+
+56
+00:02:11,081 --> 00:02:13,220
+all across Philadelphia.
+
+57
+00:02:13,697 --> 00:02:16,365
+And so, as we celebrate the founding
+
+58
+00:02:16,390 --> 00:02:19,024
+of our great city, the
+birthplace of democracy...
+
+59
+00:02:19,049 --> 00:02:21,148
+He'll be done in 15 minutes.
+
+60
+00:02:21,173 --> 00:02:22,406
+Leave with the crowd, then rendezvous
+
+61
+00:02:22,431 --> 00:02:24,231
+in the alley behind the Masonic Temple.
+
+62
+00:02:24,375 --> 00:02:25,741
+Yeah, okay.
+
+63
+00:02:25,766 --> 00:02:27,199
+And, Mark...
+
+64
+00:02:27,224 --> 00:02:29,451
+The Rezident has a dozen
+men out there at City Hall
+
+65
+00:02:29,476 --> 00:02:30,615
+as an insurance policy.
+
+66
+00:02:30,640 --> 00:02:32,123
+If you and Katya aren't here
+
+67
+00:02:32,148 --> 00:02:34,192
+within ten minutes of that speech ending,
+
+68
+00:02:34,217 --> 00:02:36,985
+he's going to come after you...
+
+69
+00:02:37,857 --> 00:02:39,448
+or Sarah.
+
+70
+00:02:40,940 --> 00:02:42,856
+Yeah, we'll be there.
+
+71
+00:02:46,309 --> 00:02:47,641
+If we can't get back to the tunnel,
+
+72
+00:02:47,666 --> 00:02:49,265
+there's no way to copy the drive?
+
+73
+00:02:49,290 --> 00:02:50,061
+No.
+
+74
+00:02:50,086 --> 00:02:51,522
+Without a copy,
+
+75
+00:02:51,547 --> 00:02:53,190
+we're right back where we started.
+
+76
+00:02:53,215 --> 00:02:55,439
+We are still caught in the vise.
+
+77
+00:02:58,024 --> 00:02:59,351
+Unless...
+
+78
+00:02:59,941 --> 00:03:02,141
+Natalie grabs Sarah...
+
+79
+00:03:02,514 --> 00:03:04,347
+meets us at the FBI field office,
+
+80
+00:03:04,372 --> 00:03:06,226
+which is six blocks from here.
+
+81
+00:03:06,407 --> 00:03:08,209
+We have the laptop. We have the leverage.
+
+82
+00:03:08,234 --> 00:03:09,433
+- We can make a deal!
+- Six blocks!
+
+83
+00:03:09,458 --> 00:03:10,655
+How are we gonna go six blocks
+
+84
+00:03:10,680 --> 00:03:12,077
+without the Rezident's people spotting us?
+
+85
+00:03:12,102 --> 00:03:13,682
+We leave now.
+
+86
+00:03:13,887 --> 00:03:15,600
+There are two subways under City Hall.
+
+87
+00:03:15,625 --> 00:03:17,047
+There's a concourse that connects them.
+
+88
+00:03:17,072 --> 00:03:18,380
+It's Sunday. It's closed.
+
+89
+00:03:18,405 --> 00:03:19,805
+The Rezident would never
+have anybody down there now.
+
+90
+00:03:19,830 --> 00:03:22,062
+If we can get into it,
+we can travel all the way
+
+91
+00:03:22,087 --> 00:03:24,221
+to the Federal Building
+without ever going above ground.
+
+92
+00:03:24,246 --> 00:03:26,655
+Well, what if he has somebody down there?
+
+93
+00:03:28,137 --> 00:03:30,872
+Then he shoots us on the spot.
+
+94
+00:03:32,075 --> 00:03:34,208
+What do you want to do?
+
+95
+00:03:34,233 --> 00:03:36,648
+These are the tenants of a great nation
+
+96
+00:03:36,673 --> 00:03:39,141
+and are in the beliefs, souls...
+
+97
+00:03:39,382 --> 00:03:41,015
+I want out...
+
+98
+00:03:41,381 --> 00:03:44,272
+for all of us, for good.
+
+99
+00:03:45,718 --> 00:03:47,974
+We go now.
+
+100
+00:03:52,565 --> 00:03:54,030
+Get Sarah.
+
+101
+00:03:54,486 --> 00:03:57,542
+Now? We... we haven't even copied the...
+
+102
+00:03:57,567 --> 00:03:59,553
+We can't get to the tunnel,
+so we can't make a copy.
+
+103
+00:03:59,578 --> 00:04:01,319
+- So what are we...
+- We're taking
+
+104
+00:04:01,344 --> 00:04:03,585
+the laptop to the FBI.
+
+105
+00:04:03,609 --> 00:04:06,506
+What? The Rezident has people all over.
+
+106
+00:04:06,531 --> 00:04:08,389
+Natalie, it's the only way.
+
+107
+00:04:08,692 --> 00:04:10,858
+Get Sarah and get to the Federal Building
+
+108
+00:04:10,883 --> 00:04:11,849
+in five minutes.
+
+109
+00:04:11,874 --> 00:04:13,428
+Come on. We have to go.
+
+110
+00:04:18,483 --> 00:04:20,650
+What the...
+
+111
+00:04:38,549 --> 00:04:40,049
+Hey, it's Sarah.
+
+112
+00:04:40,074 --> 00:04:41,907
+Why didn't you text? Leave me a message.
+
+113
+00:04:41,932 --> 00:04:43,986
+I'm going to kill you.
+
+114
+00:04:52,477 --> 00:04:53,977
+Hey, it's Sarah.
+
+115
+00:04:54,002 --> 00:04:55,802
+Why didn't you text? Leave me a message.
+
+116
+00:04:55,827 --> 00:04:58,417
+You little bitch.
+
+117
+00:04:58,650 --> 00:05:01,651
+We saw last year some of the
+fewest number of homicides
+
+118
+00:05:01,676 --> 00:05:03,776
+in nearly 50 years.
+
+119
+00:05:03,801 --> 00:05:06,936
+The lowest number of civilian fire deaths.
+
+120
+00:05:09,183 --> 00:05:13,952
+Today Philadelphia's, in fact,
+reclaimed its rightful place
+
+121
+00:05:13,977 --> 00:05:16,543
+as a global city and a world leader,
+
+122
+00:05:16,945 --> 00:05:19,472
+a city with a thriving
+economy that attracts
+
+123
+00:05:19,497 --> 00:05:22,073
+major development and is growing.
+
+124
+00:05:22,574 --> 00:05:25,032
+Hey. Don't tell the mayor
+we had to leave early.
+
+125
+00:05:25,057 --> 00:05:26,920
+You got it, pal.
+
+126
+00:05:54,648 --> 00:05:56,539
+Natalie, where the hell are your parents?
+
+127
+00:05:56,564 --> 00:05:58,331
+I don't know. I can't see them from here.
+
+128
+00:05:58,356 --> 00:05:59,912
+If they're not here within
+the next ten minutes,
+
+129
+00:05:59,937 --> 00:06:02,117
+the Rezident is going to
+take this out of my hands.
+
+130
+00:06:02,245 --> 00:06:04,119
+_
+
+131
+00:06:09,504 --> 00:06:11,523
+They need enough time
+to get out of City Hall
+
+132
+00:06:11,548 --> 00:06:12,493
+without getting caught.
+
+133
+00:06:12,518 --> 00:06:13,607
+Is that what the delay is?
+
+134
+00:06:13,631 --> 00:06:15,242
+They're gonna show up, Victor.
+
+135
+00:06:15,268 --> 00:06:17,135
+They're not stupid.
+
+136
+00:06:26,629 --> 00:06:28,362
+- We need to check it.
+- What?
+
+137
+00:06:28,397 --> 00:06:31,131
+We need to check the laptop.
+
+138
+00:06:31,167 --> 00:06:33,534
+Where are the girls?
+
+139
+00:06:33,569 --> 00:06:34,902
+If we don't have something valuable,
+
+140
+00:06:34,937 --> 00:06:37,137
+we're walking into a long prison sentence.
+
+141
+00:06:37,173 --> 00:06:38,472
+- Okay.
+- Come on.
+
+142
+00:06:38,507 --> 00:06:40,641
+Where are Natalie and Sarah?
+
+143
+00:06:40,676 --> 00:06:43,310
+You said five minutes.
+Didn't you say five minutes?
+
+144
+00:06:52,617 --> 00:06:54,038
+Okay.
+
+145
+00:06:54,063 --> 00:06:56,482
+Nitrogen levels, pH balances.
+
+146
+00:06:56,508 --> 00:06:58,075
+That's nothing.
+
+147
+00:06:59,858 --> 00:07:01,491
+What is that? Is that something?
+
+148
+00:07:01,516 --> 00:07:03,616
+No. Soil samples.
+
+149
+00:07:04,698 --> 00:07:06,965
+Uh, GDP. Average income.
+
+150
+00:07:06,990 --> 00:07:09,554
+Economic projections. That's...
+
+151
+00:07:09,727 --> 00:07:11,593
+That's a circuit diagram.
+
+152
+00:07:11,618 --> 00:07:14,017
+We can't bring this to the FBI.
+
+153
+00:07:15,227 --> 00:07:16,807
+That one. What about that?
+
+154
+00:07:16,832 --> 00:07:18,832
+Chrenyy Kinzhal.
+
+155
+00:07:18,857 --> 00:07:22,225
+- What does that mean?
+- Black Dagger.
+
+156
+00:07:24,418 --> 00:07:26,585
+- That's got to be real.
+- It better be...
+
+157
+00:07:26,610 --> 00:07:29,091
+if we're gonna walk in
+there and admit to treason.
+
+158
+00:07:30,400 --> 00:07:31,466
+What's that?
+
+159
+00:07:31,491 --> 00:07:33,558
+What does that mean?
+
+160
+00:07:33,583 --> 00:07:34,918
+It needs a separate password.
+
+161
+00:07:34,943 --> 00:07:37,177
+Ah. It's gonna format.
+
+162
+00:07:38,213 --> 00:07:40,853
+Uh... what's happening?
+
+163
+00:07:40,878 --> 00:07:42,444
+What's happening with the file?
+
+164
+00:07:42,469 --> 00:07:44,431
+- It's deleting.
+- What's happening?
+
+165
+00:07:44,456 --> 00:07:45,532
+- What is it doing?
+- The hard drive.
+
+166
+00:07:45,558 --> 00:07:47,311
+The whole hard drive is...
+
+167
+00:07:47,336 --> 00:07:51,071
+Oh, the entire hard drive is gone.
+
+168
+00:08:02,625 --> 00:08:06,681
+- Synced and corrected by martythecrazy -
+- www.addic7ed.com -
+
+169
+00:08:07,508 --> 00:08:08,697
+What were you thinking?
+
+170
+00:08:08,722 --> 00:08:10,603
+We had to make sure there
+was something valuable enough
+
+171
+00:08:10,628 --> 00:08:12,536
+to get us immunity, to get protection.
+
+172
+00:08:12,561 --> 00:08:14,134
+Well, there was, but now there isn't.
+
+173
+00:08:14,159 --> 00:08:15,586
+You just killed us.
+
+174
+00:08:16,754 --> 00:08:18,431
+It's 10 minutes past
+the Rezident's deadline.
+
+175
+00:08:18,456 --> 00:08:19,220
+You're gonna bring him this?
+
+176
+00:08:19,245 --> 00:08:20,835
+Well, maybe we found the laptop like this.
+
+177
+00:08:20,860 --> 00:08:22,615
+- He'll never believe that.
+- Where's Sarah?
+
+178
+00:08:22,640 --> 00:08:24,080
+She snuck out to Macy's.
+
+179
+00:08:24,105 --> 00:08:25,541
+I ran after her, but then you guy's called.
+
+180
+00:08:25,565 --> 00:08:27,528
+- Where is she now?
+- I left her at Macy's.
+
+181
+00:08:27,953 --> 00:08:29,789
+The SVR won't try anything there.
+
+182
+00:08:29,814 --> 00:08:31,236
+It's full of cameras and customers.
+
+183
+00:08:31,261 --> 00:08:33,398
+She's right. She's safer
+there than anywhere else.
+
+184
+00:08:33,423 --> 00:08:35,519
+Maybe we should all go to
+Macy's and exchange the laptop.
+
+185
+00:08:35,544 --> 00:08:37,680
+That way we won't be killed.
+
+186
+00:08:38,059 --> 00:08:39,292
+What?
+
+187
+00:08:39,317 --> 00:08:40,523
+I just got an idea.
+
+188
+00:08:40,548 --> 00:08:42,582
+- To do what?
+- Save us.
+
+189
+00:08:42,607 --> 00:08:44,726
+But you said the hard drive
+was destroyed. What can you do?
+
+190
+00:08:44,751 --> 00:08:46,584
+It is, but the solid-state
+layer is still intact.
+
+191
+00:08:46,609 --> 00:08:49,444
+If I can encrypt it, the
+Rezident won't see this.
+
+192
+00:08:49,746 --> 00:08:51,580
+He'll never know what you did.
+
+193
+00:08:51,605 --> 00:08:54,097
+But you're gonna need to really sell it.
+
+194
+00:08:59,601 --> 00:09:01,741
+Cops were everywhere. We didn't
+have any press credentials.
+
+195
+00:09:01,766 --> 00:09:04,153
+Last thing we wanted was
+to get caught with this.
+
+196
+00:09:27,128 --> 00:09:28,855
+_
+
+197
+00:09:56,742 --> 00:09:57,808
+Hey!
+
+198
+00:10:05,680 --> 00:10:07,013
+We did everything you asked.
+
+199
+00:10:07,038 --> 00:10:09,467
+I think you did more than that, Katya.
+
+200
+00:10:09,861 --> 00:10:11,808
+That's why you took so long.
+
+201
+00:10:14,775 --> 00:10:17,137
+We did nothing. We came
+as soon as it was safe.
+
+202
+00:10:17,162 --> 00:10:18,664
+I think you're a liar.
+
+203
+00:10:18,874 --> 00:10:20,274
+I think you looked at the files
+
+204
+00:10:20,299 --> 00:10:22,423
+and the self-destruct protocol took over,
+
+205
+00:10:22,448 --> 00:10:24,131
+just like I think you shot my sniper
+
+206
+00:10:24,156 --> 00:10:25,904
+in the back of the head.
+
+207
+00:10:26,060 --> 00:10:29,576
+Police thought he was
+killed with his own pistol.
+
+208
+00:10:29,979 --> 00:10:31,879
+Then they realized that
+was just a diversion
+
+209
+00:10:31,904 --> 00:10:34,505
+to keep them from looking
+for the real murder weapon.
+
+210
+00:10:34,550 --> 00:10:38,070
+If you kill me now, the
+FBI is going to assign
+
+211
+00:10:38,095 --> 00:10:40,005
+a dozen counterintelligence agents
+
+212
+00:10:40,030 --> 00:10:41,930
+to investigate Alex to see
+if there's a connection.
+
+213
+00:10:41,966 --> 00:10:44,879
+You lose him as a source forever.
+
+214
+00:10:44,904 --> 00:10:46,600
+And you're gonna give the FBI
+
+215
+00:10:46,625 --> 00:10:48,091
+an awful lot of strings to pull
+
+216
+00:10:48,116 --> 00:10:50,082
+which you are at the end of.
+
+217
+00:10:55,475 --> 00:10:58,179
+_
+
+218
+00:11:00,645 --> 00:11:02,461
+The laptop will go to Moscow.
+
+219
+00:11:03,905 --> 00:11:06,192
+They'll get through the
+encryption eventually.
+
+220
+00:11:06,217 --> 00:11:08,505
+And then we will know if
+you're telling the truth.
+
+221
+00:11:09,659 --> 00:11:12,752
+Until then, we will be watching you.
+
+222
+00:11:12,989 --> 00:11:16,688
+Every minute of the day and night.
+
+223
+00:11:18,011 --> 00:11:20,582
+You and your whole family.
+
+224
+00:11:40,993 --> 00:11:42,459
+He's going to kill us eventually.
+
+225
+00:11:42,484 --> 00:11:43,516
+That's his plan.
+
+226
+00:11:43,541 --> 00:11:45,441
+The SVR needs Alex. You said it.
+
+227
+00:11:45,466 --> 00:11:47,666
+No, I mean him personally.
+
+228
+00:11:47,691 --> 00:11:49,224
+He's a psychopath.
+
+229
+00:11:49,249 --> 00:11:51,344
+He enjoys feeding people into furnaces.
+
+230
+00:11:52,741 --> 00:11:55,274
+You know what? We have this.
+
+231
+00:11:55,299 --> 00:11:57,232
+The movie I took of the file deleting.
+
+232
+00:11:57,568 --> 00:11:59,224
+We break the encryption, it might be enough
+
+233
+00:11:59,249 --> 00:12:00,272
+to take to the FBI.
+
+234
+00:12:00,296 --> 00:12:01,723
+Still, when the time is right,
+
+235
+00:12:02,395 --> 00:12:04,505
+I'm going to kill him.
+
+236
+00:12:05,167 --> 00:12:06,675
+What?
+
+237
+00:12:06,700 --> 00:12:08,395
+Witness protection or
+no witness protection,
+
+238
+00:12:08,419 --> 00:12:11,239
+that man has to die for
+our family to be safe.
+
+239
+00:12:14,347 --> 00:12:16,039
+Any idea where the hell we are?
+
+240
+00:12:16,200 --> 00:12:18,324
+Camden, New Jersey.
+
+241
+00:12:19,249 --> 00:12:20,840
+How could you possibly know that?
+
+242
+00:12:20,865 --> 00:12:22,647
+We had bags over our heads.
+
+243
+00:12:22,847 --> 00:12:25,943
+The SVR didn't send you
+to recruit an idiot, honey.
+
+244
+00:12:28,340 --> 00:12:30,400
+That way.
+
+245
+00:12:34,224 --> 00:12:36,457
+Happy Easter, O'Connor.
+
+246
+00:12:45,183 --> 00:12:47,183
+Well, this is a disgrace.
+
+247
+00:12:47,208 --> 00:12:49,942
+The bus is 45 minutes
+late according to this.
+
+248
+00:12:49,967 --> 00:12:52,509
+No wonder no one takes
+public transportation anymore.
+
+249
+00:12:52,534 --> 00:12:55,002
+You saw a landmark or something, right?
+
+250
+00:12:55,027 --> 00:12:57,498
+A billboard that said "Camden" on it? I...
+
+251
+00:12:57,523 --> 00:13:00,409
+It's just travel time, number of turns.
+
+252
+00:13:00,449 --> 00:13:02,581
+It's just deduction.
+
+253
+00:13:02,606 --> 00:13:05,273
+Well, at least we know where
+Alex gets his brain from.
+
+254
+00:13:05,298 --> 00:13:06,898
+He's got plenty of your brain too.
+
+255
+00:13:06,923 --> 00:13:09,808
+Yeah. The part where he can't filter
+
+256
+00:13:09,833 --> 00:13:11,269
+anything he says before he says it.
+
+257
+00:13:11,294 --> 00:13:12,993
+That part's definitely from me.
+
+258
+00:13:18,425 --> 00:13:20,926
+Can we talk?
+
+259
+00:13:20,951 --> 00:13:24,396
+We need to talk about us.
+
+260
+00:13:27,643 --> 00:13:29,209
+It's time.
+
+261
+00:13:38,129 --> 00:13:40,797
+You were in Riyadh...
+
+262
+00:13:41,246 --> 00:13:42,545
+for a project.
+
+263
+00:13:42,570 --> 00:13:45,437
+You were gone six months that time.
+
+264
+00:13:47,652 --> 00:13:50,406
+I was alone with the children.
+
+265
+00:13:53,024 --> 00:13:55,524
+Alex was really struggling.
+
+266
+00:13:57,895 --> 00:14:01,631
+And I felt like I was...
+
+267
+00:14:01,666 --> 00:14:03,232
+drowning.
+
+268
+00:14:08,339 --> 00:14:11,040
+Who?
+
+269
+00:14:11,075 --> 00:14:13,442
+Are you sure you really want to know that?
+
+270
+00:14:16,309 --> 00:14:17,766
+No.
+
+271
+00:14:19,531 --> 00:14:21,531
+How about why?
+
+272
+00:14:25,123 --> 00:14:27,449
+To escape.
+
+273
+00:14:27,892 --> 00:14:30,758
+To feel something besides...
+
+274
+00:14:32,172 --> 00:14:33,872
+fear.
+
+275
+00:14:33,897 --> 00:14:36,755
+We were going through a very
+dark time in our relationship.
+
+276
+00:14:36,780 --> 00:14:39,819
+Do you remember how angry you were with me
+
+277
+00:14:40,143 --> 00:14:42,746
+when you found out how much...
+
+278
+00:14:43,534 --> 00:14:45,774
+how much more than support
+I was doing for the SVR?
+
+279
+00:14:45,810 --> 00:14:49,223
+- Katya, please.
+- You almost left me, Mark.
+
+280
+00:14:49,251 --> 00:14:51,839
+You did leave me...
+
+281
+00:14:52,583 --> 00:14:55,417
+just three, four, six months at a time.
+
+282
+00:14:55,453 --> 00:14:58,053
+I mean, you said they were work trips,
+
+283
+00:14:58,089 --> 00:14:59,822
+but we both know that you
+could've gotten out of them.
+
+284
+00:14:59,857 --> 00:15:02,351
+No, stop it. Stop it.
+
+285
+00:15:02,518 --> 00:15:04,852
+I wasn't perfect back then either.
+
+286
+00:15:08,558 --> 00:15:10,792
+I know.
+
+287
+00:15:12,703 --> 00:15:15,537
+You know?
+
+288
+00:15:17,041 --> 00:15:18,994
+All these years you never said anything?
+
+289
+00:15:19,019 --> 00:15:21,809
+I was trying to do one thing right
+
+290
+00:15:21,834 --> 00:15:24,601
+for our children, just one thing.
+
+291
+00:15:30,472 --> 00:15:32,405
+We got through that.
+
+292
+00:15:34,428 --> 00:15:38,063
+We can get through this, can't we?
+
+293
+00:15:38,088 --> 00:15:40,555
+We have to.
+
+294
+00:15:40,580 --> 00:15:43,779
+I can't make it without you.
+
+295
+00:16:00,636 --> 00:16:03,304
+Oh, my God. Is that the Director?
+
+296
+00:16:03,456 --> 00:16:07,434
+The Director? Alex, jacket.
+
+297
+00:16:12,153 --> 00:16:13,777
+Where is he?
+
+298
+00:16:13,802 --> 00:16:17,386
+I, um, think he stepped
+across the street for coffee,
+
+299
+00:16:17,411 --> 00:16:18,810
+a cup of coffee, sir.
+
+300
+00:16:18,835 --> 00:16:20,434
+We had no idea you were coming.
+
+301
+00:16:20,459 --> 00:16:22,378
+A cup of coffee.
+
+302
+00:16:23,561 --> 00:16:26,362
+Easter eggs. Hilarious.
+
+303
+00:16:26,387 --> 00:16:28,019
+Who thought of this?
+
+304
+00:16:28,044 --> 00:16:30,326
+O'Neill, sir.
+
+305
+00:16:30,508 --> 00:16:33,116
+Well, I'm glad someone
+can still find the funny
+
+306
+00:16:33,141 --> 00:16:35,441
+in all of this, because I can tell you,
+
+307
+00:16:35,572 --> 00:16:39,164
+the Attorney General is
+not frickin' laughing.
+
+308
+00:16:39,653 --> 00:16:42,709
+And the President...
+he's not laughing either.
+
+309
+00:16:43,444 --> 00:16:46,630
+And why the hell are you
+playing with that squash ball?
+
+310
+00:16:47,120 --> 00:16:48,797
+It helps me think, sir.
+
+311
+00:16:48,822 --> 00:16:50,627
+It was a rhetorical question.
+
+312
+00:16:50,652 --> 00:16:52,018
+Sorry.
+
+313
+00:16:52,043 --> 00:16:53,752
+Sorry because you answered the question
+
+314
+00:16:53,777 --> 00:16:55,885
+or because you made us all look like
+
+315
+00:16:55,910 --> 00:16:57,231
+a bunch of jackasses?
+
+316
+00:16:57,256 --> 00:16:58,222
+Sir, if I may...
+
+317
+00:16:58,247 --> 00:16:59,714
+No, you may not,
+
+318
+00:16:59,739 --> 00:17:02,128
+because I'm not finished yet.
+
+319
+00:17:02,179 --> 00:17:05,676
+The FISA judge reviewing the
+AG's emergency search order
+
+320
+00:17:05,701 --> 00:17:09,470
+has decided that he wants to
+fly up here day after tomorrow
+
+321
+00:17:09,495 --> 00:17:12,714
+because he wants to hear
+directly from you idiots
+
+322
+00:17:12,739 --> 00:17:14,839
+how you could be so confident
+
+323
+00:17:14,864 --> 00:17:17,902
+as to what you would find
+and still be so flatly wrong.
+
+324
+00:17:17,927 --> 00:17:19,627
+But... we weren't wrong.
+
+325
+00:17:19,652 --> 00:17:20,651
+Alex, don't.
+
+326
+00:17:21,007 --> 00:17:22,907
+I'm sorry?
+
+327
+00:17:22,943 --> 00:17:24,241
+What'd you say?
+
+328
+00:17:24,334 --> 00:17:26,487
+Mikhail's laptop was in City Hall.
+
+329
+00:17:26,512 --> 00:17:28,536
+The SVR just beat us to it.
+
+330
+00:17:29,228 --> 00:17:30,994
+Really?
+
+331
+00:17:31,194 --> 00:17:32,827
+Okay, well,
+
+332
+00:17:32,852 --> 00:17:36,187
+just dump that bucket of
+proof right over my head.
+
+333
+00:17:37,660 --> 00:17:39,259
+Then shut the hell up
+
+334
+00:17:39,284 --> 00:17:41,217
+and let me tell you
+what's gonna happen next.
+
+335
+00:17:41,685 --> 00:17:44,419
+You and you and whoever else in this room
+
+336
+00:17:44,444 --> 00:17:46,511
+who was behind you in this,
+
+337
+00:17:46,536 --> 00:17:48,011
+are gonna go before that judge,
+
+338
+00:17:48,036 --> 00:17:49,669
+and you're gonna own this screwup.
+
+339
+00:17:50,007 --> 00:17:53,231
+And you better do a good job
+of it, because if you don't,
+
+340
+00:17:54,135 --> 00:17:56,101
+you're gonna spend the rest of your career
+
+341
+00:17:56,126 --> 00:18:00,361
+analyzing historical trends
+of Soviet grain reports.
+
+342
+00:18:00,386 --> 00:18:02,991
+And, you, you'll get permanently promoted
+
+343
+00:18:03,016 --> 00:18:05,834
+to the make-work and meaningless cases desk
+
+344
+00:18:05,859 --> 00:18:08,627
+in our Peoria satellite office.
+
+345
+00:18:08,747 --> 00:18:11,574
+As for the judge, well, he
+may take a look at all this
+
+346
+00:18:11,599 --> 00:18:13,866
+and just decide that this task force
+
+347
+00:18:13,891 --> 00:18:15,281
+and the leeway that you've been given
+
+348
+00:18:15,306 --> 00:18:16,730
+is nothing more than a recipe
+
+349
+00:18:16,755 --> 00:18:20,301
+for constitutional infringement
+and shut you all down!
+
+350
+00:18:28,171 --> 00:18:31,406
+Nice job, O'Connor.
+
+351
+00:18:50,698 --> 00:18:53,897
+You come up here to think or to jump?
+
+352
+00:18:55,764 --> 00:18:57,945
+Does it have to be one or the other?
+
+353
+00:18:58,239 --> 00:19:00,072
+What about the view?
+
+354
+00:19:00,097 --> 00:19:01,997
+No, that's banal.
+
+355
+00:19:02,022 --> 00:19:04,856
+You're not a banal guy.
+
+356
+00:19:05,318 --> 00:19:07,585
+Listen, don't worry about
+what the FBI Director
+
+357
+00:19:07,610 --> 00:19:09,009
+said down there.
+
+358
+00:19:09,034 --> 00:19:10,418
+Why?
+
+359
+00:19:10,443 --> 00:19:13,009
+Well, first off, because
+he's the FBI Director.
+
+360
+00:19:14,700 --> 00:19:17,368
+Second, I'm not so sure you were wrong.
+
+361
+00:19:19,241 --> 00:19:20,704
+What makes you say that?
+
+362
+00:19:20,729 --> 00:19:23,597
+25 years in the field.
+
+363
+00:19:27,557 --> 00:19:29,090
+So what do I do?
+
+364
+00:19:29,115 --> 00:19:31,754
+Without the laptop, how
+do we stop the SVR's plan?
+
+365
+00:19:31,779 --> 00:19:34,417
+Find out what happened in Philly,
+
+366
+00:19:34,442 --> 00:19:36,032
+and we'll be back on track.
+
+367
+00:19:36,549 --> 00:19:38,583
+Oh, and, uh...
+
+368
+00:19:38,608 --> 00:19:40,432
+if gathering that
+evidence requires anything
+
+369
+00:19:40,457 --> 00:19:43,024
+other than your computer,
+bring Michelle along, okay?
+
+370
+00:19:43,049 --> 00:19:44,516
+She'll keep you out of trouble.
+
+371
+00:19:44,675 --> 00:19:45,839
+Scratch that.
+
+372
+00:19:45,863 --> 00:19:47,681
+She probably won't keep you out of trouble,
+
+373
+00:19:47,706 --> 00:19:50,808
+but just bring her anyways.
+
+374
+00:19:55,897 --> 00:19:58,297
+Natalie.
+
+375
+00:20:00,851 --> 00:20:02,817
+I was so worried.
+
+376
+00:20:02,842 --> 00:20:05,539
+We're okay. We're okay.
+We're okay. We're okay.
+
+377
+00:20:07,367 --> 00:20:09,400
+We're only safe until the
+SVR breaks the encryption
+
+378
+00:20:09,425 --> 00:20:11,959
+on that laptop, so how long
+do we have, bottom line?
+
+379
+00:20:11,984 --> 00:20:15,853
+It's a hundred-plus-character
+password I entered randomly.
+
+380
+00:20:15,878 --> 00:20:18,149
+I mean, it should take them years.
+
+381
+00:20:18,174 --> 00:20:19,874
+But, of course, if they threw enough
+
+382
+00:20:19,899 --> 00:20:21,348
+processing power at it...
+
+383
+00:20:21,373 --> 00:20:23,673
+So it could be a month?
+
+384
+00:20:23,698 --> 00:20:25,331
+A month would be almost impossible.
+
+385
+00:20:25,356 --> 00:20:26,722
+Then assume we have a month.
+
+386
+00:20:26,747 --> 00:20:28,061
+Yeah.
+
+387
+00:20:29,031 --> 00:20:30,845
+What?
+
+388
+00:20:31,033 --> 00:20:33,549
+I'm just racking my
+brain trying to remember
+
+389
+00:20:33,574 --> 00:20:35,474
+if I made any mistake,
+
+390
+00:20:35,499 --> 00:20:37,276
+left any back door.
+
+391
+00:20:37,434 --> 00:20:39,300
+Yes, well?
+
+392
+00:20:39,325 --> 00:20:42,565
+I, uh... a month. We're safe for a month.
+
+393
+00:20:42,590 --> 00:20:45,646
+Well, we need to break the
+code on this video before then.
+
+394
+00:20:46,988 --> 00:20:49,291
+Any fragment of the Intel Mikhail stole
+
+395
+00:20:49,316 --> 00:20:51,490
+could be valuable to us.
+
+396
+00:20:52,352 --> 00:20:55,362
+I know how to encrypt something.
+I don't know how to decrypt it...
+
+397
+00:20:55,387 --> 00:20:57,034
+I mean, especially not something like that.
+
+398
+00:20:57,059 --> 00:20:59,524
+But you know somebody, right?
+
+399
+00:21:01,191 --> 00:21:04,359
+I know one person, but I can't go to him.
+
+400
+00:21:04,384 --> 00:21:05,901
+Why not?
+
+401
+00:21:05,926 --> 00:21:08,760
+I-I just...
+
+402
+00:21:09,047 --> 00:21:11,226
+What? Is he a security concern?
+
+403
+00:21:11,373 --> 00:21:13,339
+He's not connected to the Russians, is he?
+
+404
+00:21:13,364 --> 00:21:15,154
+No, nothing like that.
+
+405
+00:21:15,179 --> 00:21:16,937
+Then what?
+
+406
+00:21:18,239 --> 00:21:19,939
+Okay, you know what? I...
+
+407
+00:21:19,964 --> 00:21:22,031
+I'm not sure what's
+going on between you two,
+
+408
+00:21:22,056 --> 00:21:23,923
+but I do know this,
+
+409
+00:21:23,948 --> 00:21:25,900
+if we lose focus on how precarious
+
+410
+00:21:25,925 --> 00:21:28,043
+our situation is, just for a moment,
+
+411
+00:21:28,068 --> 00:21:30,393
+we lose everything, and I mean everything!
+
+412
+00:21:30,949 --> 00:21:32,716
+So I'm gonna go get the car.
+
+413
+00:21:32,791 --> 00:21:36,471
+And when I come back, I want
+you two to have worked out
+
+414
+00:21:36,496 --> 00:21:38,515
+whatever the hell's going on between you.
+
+415
+00:21:38,540 --> 00:21:40,344
+Please.
+
+416
+00:21:46,577 --> 00:21:47,577
+_
+
+417
+00:21:47,602 --> 00:21:48,602
+_
+
+418
+00:21:49,360 --> 00:21:50,360
+_
+
+419
+00:21:50,626 --> 00:21:54,349
+Listen, I know Philadelphia
+didn't go exactly as planned
+
+420
+00:21:54,382 --> 00:21:56,454
+but you have to remember the
+decision that you made there.
+
+421
+00:21:56,479 --> 00:21:58,951
+What... to condemn my boyfriend
+
+422
+00:21:58,976 --> 00:22:00,978
+to burn in a furnace like Mikhail did?
+
+423
+00:22:01,003 --> 00:22:04,595
+_
+
+424
+00:22:04,620 --> 00:22:06,086
+Boyfriend?
+
+425
+00:22:06,111 --> 00:22:08,931
+That's a nice, clean word for it.
+
+426
+00:22:09,803 --> 00:22:12,470
+You're so cruel sometimes.
+
+427
+00:22:14,335 --> 00:22:16,269
+Natasha...
+
+428
+00:22:17,427 --> 00:22:19,048
+_
+
+429
+00:22:20,513 --> 00:22:23,118
+I am trying to protect you.
+
+430
+00:22:23,544 --> 00:22:25,295
+And not that it's my greatest concern,
+
+431
+00:22:25,320 --> 00:22:26,751
+but you being with Victor,
+
+432
+00:22:26,776 --> 00:22:29,009
+you put him at huge risk.
+
+433
+00:22:29,034 --> 00:22:31,769
+What would the Rezident do
+if he found out about you two?
+
+434
+00:22:31,794 --> 00:22:34,977
+You have to break up with him.
+
+435
+00:22:38,268 --> 00:22:40,435
+I know.
+
+436
+00:23:48,025 --> 00:23:50,543
+This better be good.
+
+437
+00:23:51,758 --> 00:23:54,752
+Why didn't that alarm sound
+when we opened the door?
+
+438
+00:24:09,077 --> 00:24:12,079
+Now arriving track four, Amtrak train 2164.
+
+439
+00:24:12,114 --> 00:24:13,413
+We need to hurry.
+
+440
+00:24:13,449 --> 00:24:14,977
+Building's only open to the public
+
+441
+00:24:15,002 --> 00:24:16,771
+until 11:00 a.m. every day.
+
+442
+00:24:28,397 --> 00:24:30,530
+And here I thought our romance died.
+
+443
+00:24:30,566 --> 00:24:32,666
+This is about business.
+
+444
+00:24:32,709 --> 00:24:34,644
+Maybe we can mix the two again.
+
+445
+00:24:34,669 --> 00:24:38,237
+Not anymore. I need this decrypted.
+
+446
+00:24:38,262 --> 00:24:39,905
+What is it?
+
+447
+00:24:52,429 --> 00:24:54,463
+I need it fast. I'll pay
+double your going rate.
+
+448
+00:24:54,488 --> 00:24:57,143
+How about you come back
+to me and I do it for free?
+
+449
+00:24:58,223 --> 00:25:00,044
+I'm seeing somebody.
+
+450
+00:25:00,069 --> 00:25:01,902
+Yeah? And I'm booked up.
+
+451
+00:25:02,197 --> 00:25:04,965
+Could be a month before I get through this.
+
+452
+00:25:05,000 --> 00:25:07,466
+Get... Wait, wait, wait.
+I'm just kidding, Natalie.
+
+453
+00:25:07,827 --> 00:25:09,794
+You used to like the verbal sparring.
+
+454
+00:25:09,819 --> 00:25:11,980
+Remember?
+
+455
+00:25:15,124 --> 00:25:17,892
+I'll get started on it right away.
+
+456
+00:25:21,096 --> 00:25:23,747
+Thank you.
+
+457
+00:25:31,089 --> 00:25:32,599
+I can't believe she wore that.
+
+458
+00:25:32,624 --> 00:25:34,627
+I can't believe she put it on Instagram.
+
+459
+00:25:34,652 --> 00:25:36,042
+What a whore.
+
+460
+00:25:39,735 --> 00:25:41,701
+Uh, no, I'm okay.
+
+461
+00:25:41,737 --> 00:25:43,703
+Hey, girls.
+
+462
+00:25:44,409 --> 00:25:46,309
+We're too young for you, cowboy.
+
+463
+00:25:46,334 --> 00:25:47,600
+Yeah, how old is that?
+
+464
+00:25:47,625 --> 00:25:49,291
+I think what she meant to say was,
+
+465
+00:25:49,316 --> 00:25:51,083
+buzz off, you perv.
+
+466
+00:25:51,108 --> 00:25:53,108
+NYPD, jackoff. Get up against the wall.
+
+467
+00:25:53,626 --> 00:25:55,720
+All of you, up against the wall now.
+
+468
+00:26:07,467 --> 00:26:09,167
+Excuse me, ma'am.
+
+469
+00:26:29,718 --> 00:26:31,751
+It's huge up here.
+
+470
+00:26:31,787 --> 00:26:33,353
+There was somebody here.
+
+471
+00:26:33,388 --> 00:26:34,721
+You don't know that for sure.
+
+472
+00:26:34,756 --> 00:26:36,289
+Team of two, man and a woman,
+
+473
+00:26:36,325 --> 00:26:37,924
+judging by the shoe size.
+
+474
+00:26:37,959 --> 00:26:39,459
+Look how the dust has been displaced.
+
+475
+00:26:39,494 --> 00:26:40,860
+Mostly near the balls of the feet.
+
+476
+00:26:40,896 --> 00:26:43,097
+Some don't even have heel prints.
+
+477
+00:26:43,601 --> 00:26:45,535
+They were running.
+
+478
+00:26:45,560 --> 00:26:46,959
+They heard us come in.
+
+479
+00:26:46,984 --> 00:26:48,617
+Ah!
+
+480
+00:26:48,649 --> 00:26:51,254
+Why didn't the op team leader
+at least let us search it?
+
+481
+00:26:51,279 --> 00:26:52,527
+I should...
+
+482
+00:26:52,754 --> 00:26:54,921
+I should have covered for you, okay?
+
+483
+00:26:54,946 --> 00:26:56,478
+I'm your partner.
+
+484
+00:26:56,503 --> 00:26:58,808
+I should have run
+interference with the boss
+
+485
+00:26:58,833 --> 00:27:01,200
+or told him I heard something.
+
+486
+00:27:01,225 --> 00:27:02,624
+I'm sorry.
+
+487
+00:27:05,202 --> 00:27:06,902
+It's okay.
+
+488
+00:27:11,400 --> 00:27:14,134
+We should... we should keep looking.
+
+489
+00:27:14,159 --> 00:27:16,159
+Watch the footprints.
+
+490
+00:27:21,196 --> 00:27:23,196
+The blueprints show
+only one other way down,
+
+491
+00:27:23,221 --> 00:27:24,787
+into the Mayor's wing.
+
+492
+00:27:24,812 --> 00:27:26,211
+There's a police post at both ends.
+
+493
+00:27:26,236 --> 00:27:28,220
+If they went out that
+way, they were forced to.
+
+494
+00:27:28,245 --> 00:27:31,379
+It certainly doesn't make sense
+for them to come in that way.
+
+495
+00:27:31,404 --> 00:27:35,157
+If I were them, I would've
+come in the same way we did.
+
+496
+00:27:37,719 --> 00:27:38,952
+Let's say you're right,
+
+497
+00:27:38,987 --> 00:27:40,524
+that the Russians did come in this way.
+
+498
+00:27:40,549 --> 00:27:42,182
+How did they get in the basement?
+
+499
+00:27:42,207 --> 00:27:44,040
+Security's posted at the service entrance.
+
+500
+00:27:44,065 --> 00:27:47,666
+They must've found another way in.
+
+501
+00:27:47,691 --> 00:27:49,991
+How you doing?
+
+502
+00:27:50,016 --> 00:27:51,692
+We're with Allied Exterminators.
+
+503
+00:27:51,717 --> 00:27:53,596
+Trying to find the source
+of this rat infestation
+
+504
+00:27:53,621 --> 00:27:55,498
+before our whole team comes Monday.
+
+505
+00:27:55,523 --> 00:27:59,106
+Really? Good luck with that.
+
+506
+00:27:59,131 --> 00:28:01,065
+Is there any other way into the basement
+
+507
+00:28:01,090 --> 00:28:02,529
+besides the service entrance?
+
+508
+00:28:02,555 --> 00:28:03,954
+For a rat, sure.
+
+509
+00:28:03,979 --> 00:28:05,278
+For us. For our team.
+
+510
+00:28:05,303 --> 00:28:08,012
+Not really. Loading dock is it.
+
+511
+00:28:08,037 --> 00:28:10,301
+Well, except for an old tunnel
+
+512
+00:28:10,326 --> 00:28:13,035
+but that's been closed off since the '70s.
+
+513
+00:28:13,120 --> 00:28:14,886
+This way?
+
+514
+00:28:14,911 --> 00:28:17,395
+- What were you thinking?
+- I wasn't even smoking it.
+
+515
+00:28:17,420 --> 00:28:18,965
+You lied to us. You skipped school.
+
+516
+00:28:18,990 --> 00:28:22,707
+It's gym. In what world do
+I ever need to climb a rope?
+
+517
+00:28:22,732 --> 00:28:25,677
+You were dishonest with us,
+Sarah. That is why we're upset.
+
+518
+00:28:25,718 --> 00:28:27,944
+Seriously? The double standard around here
+
+519
+00:28:27,969 --> 00:28:29,034
+is, like, pathetic.
+
+520
+00:28:29,059 --> 00:28:31,202
+We don't tell you everything,
+because there's some things
+
+521
+00:28:31,227 --> 00:28:33,127
+kids don't need to know.
+
+522
+00:28:33,152 --> 00:28:37,054
+I may be young, but I'm not Alex.
+
+523
+00:28:37,079 --> 00:28:38,498
+I love him to death.
+
+524
+00:28:38,522 --> 00:28:40,920
+I mean, he's the only one
+of you who's not crazy,
+
+525
+00:28:40,945 --> 00:28:43,212
+but I see things.
+
+526
+00:28:43,237 --> 00:28:45,671
+I can read between the lines.
+
+527
+00:28:45,696 --> 00:28:47,830
+This kind of BS doesn't work on me
+
+528
+00:28:47,855 --> 00:28:50,022
+the way it works on him.
+
+529
+00:28:50,047 --> 00:28:51,647
+Okay?
+
+530
+00:29:00,378 --> 00:29:02,412
+Do you think she knows something?
+
+531
+00:29:02,437 --> 00:29:05,248
+I think, no matter how careful you are,
+
+532
+00:29:05,892 --> 00:29:08,375
+you can never hide who
+you are from your family.
+
+533
+00:29:08,658 --> 00:29:10,358
+She may not know the details,
+
+534
+00:29:10,383 --> 00:29:13,142
+but she knows we're keeping
+something very big from her.
+
+535
+00:29:13,533 --> 00:29:16,033
+There's a gate down there.
+
+536
+00:29:16,058 --> 00:29:18,016
+Straight out of<i> National
+Treasure</i> in here.
+
+537
+00:29:18,041 --> 00:29:19,696
+I never read it.
+
+538
+00:29:19,720 --> 00:29:21,854
+It's a movie...
+
+539
+00:29:21,879 --> 00:29:24,113
+starred Nicolas Cage.
+
+540
+00:29:24,138 --> 00:29:25,971
+Never mind.
+
+541
+00:29:29,982 --> 00:29:31,682
+What is it?
+
+542
+00:29:31,707 --> 00:29:33,474
+Residue.
+
+543
+00:29:33,499 --> 00:29:35,666
+What kind of residue?
+
+544
+00:29:35,691 --> 00:29:37,458
+I'm not sure.
+
+545
+00:29:37,765 --> 00:29:41,233
+But this is where a padlock would've gone.
+
+546
+00:29:53,070 --> 00:29:55,572
+Wow.
+
+547
+00:29:57,072 --> 00:29:59,216
+Whoever planned this
+operation was very good,
+
+548
+00:29:59,241 --> 00:30:01,018
+but they were working on short notice.
+
+549
+00:30:01,231 --> 00:30:03,698
+How can you know that?
+
+550
+00:30:04,085 --> 00:30:07,017
+Because they were probably
+filmed with that camera.
+
+551
+00:30:18,021 --> 00:30:19,576
+The problem with asking for their footage
+
+552
+00:30:19,601 --> 00:30:21,022
+is they will ask why we need it.
+
+553
+00:30:21,047 --> 00:30:22,180
+So we tell them.
+
+554
+00:30:22,205 --> 00:30:23,972
+It's all classified.
+
+555
+00:30:23,997 --> 00:30:26,274
+So we go for a FISA warrant
+and ask for the judge
+
+556
+00:30:26,299 --> 00:30:27,758
+to keep our reasoning under seal.
+
+557
+00:30:27,783 --> 00:30:29,294
+Do you really think Justice will support us
+
+558
+00:30:29,319 --> 00:30:31,355
+on another warrant after
+the reaming we got yesterday?
+
+559
+00:30:31,380 --> 00:30:32,919
+It's the only way to prove what happened.
+
+560
+00:30:32,944 --> 00:30:34,175
+Look, I believe you.
+
+561
+00:30:34,200 --> 00:30:35,903
+You were right.
+
+562
+00:30:36,890 --> 00:30:38,423
+But they don't.
+
+563
+00:30:38,448 --> 00:30:40,968
+You've got to let those
+cameras go right now, okay?
+
+564
+00:30:40,993 --> 00:30:42,818
+Trust me. We'll come back to them,
+
+565
+00:30:42,843 --> 00:30:45,790
+but only after we build the
+case out with something else.
+
+566
+00:30:53,182 --> 00:30:54,182
+_
+
+567
+00:30:54,206 --> 00:30:55,004
+_
+
+568
+00:30:55,004 --> 00:30:56,574
+_
+
+569
+00:30:59,085 --> 00:31:00,614
+_
+
+570
+00:31:05,691 --> 00:31:08,759
+You seriously have to relay
+every one of her texts?
+
+571
+00:31:08,784 --> 00:31:12,419
+Yep. Even the ones that say "Moms suck."
+
+572
+00:31:12,559 --> 00:31:14,502
+I don't think you should be doing that.
+
+573
+00:31:14,527 --> 00:31:16,127
+That's like reading her diary.
+
+574
+00:31:16,152 --> 00:31:17,652
+She keeps a diary?
+
+575
+00:31:17,677 --> 00:31:19,477
+She's a good kid, Katya.
+
+576
+00:31:19,502 --> 00:31:21,912
+Yeah, she's a good kid who's
+hanging out with bad kids.
+
+577
+00:31:21,937 --> 00:31:23,456
+And she puts herself in danger
+
+578
+00:31:23,488 --> 00:31:25,808
+every time she does something
+stupid and rebellious.
+
+579
+00:31:25,833 --> 00:31:26,574
+The Rezident...
+
+580
+00:31:26,598 --> 00:31:28,832
+The Rezident is our fault...
+
+581
+00:31:28,857 --> 00:31:31,091
+our responsibility.
+
+582
+00:32:00,158 --> 00:32:02,209
+What are you thinking?
+
+583
+00:32:02,536 --> 00:32:04,903
+I'm thinking SEPTA won't ask
+the same kind of questions
+
+584
+00:32:04,928 --> 00:32:07,094
+a private organization will.
+
+585
+00:32:07,119 --> 00:32:09,075
+I'm thinking if you flash
+your badge and ask nicely,
+
+586
+00:32:09,100 --> 00:32:10,657
+they'll give you all their footage.
+
+587
+00:32:10,682 --> 00:32:13,116
+What footage? And what's SEPTA?
+
+588
+00:32:13,141 --> 00:32:15,395
+SEPTA. They run the city buses here.
+
+589
+00:32:15,420 --> 00:32:17,554
+Philly's MTA.
+
+590
+00:32:17,579 --> 00:32:21,135
+Most buses these days have
+cameras facing the doors.
+
+591
+00:32:21,160 --> 00:32:23,394
+We don't need to see the
+Russians inside the Masonic Temple
+
+592
+00:32:23,419 --> 00:32:25,753
+if we can see them going in and out.
+
+593
+00:32:27,299 --> 00:32:29,833
+Let's go check it out.
+
+594
+00:32:30,859 --> 00:32:34,601
+_
+
+595
+00:32:39,503 --> 00:32:42,034
+Uh, excuse me, do you know
+how much longer it will be?
+
+596
+00:32:42,059 --> 00:32:43,492
+A couple of more hours, at least.
+
+597
+00:32:43,517 --> 00:32:45,975
+A couple... a couple more hours?
+
+598
+00:32:46,000 --> 00:32:48,283
+We have really old computers.
+
+599
+00:32:58,478 --> 00:33:01,631
+So, when they recruit you
+Agency guys, do they entice you
+
+600
+00:33:01,656 --> 00:33:04,464
+with true stories of derring-do, like, say...
+
+601
+00:33:04,489 --> 00:33:05,855
+this?
+
+602
+00:33:05,880 --> 00:33:07,480
+No.
+
+603
+00:33:10,657 --> 00:33:13,058
+Why'd you join the FBI?
+
+604
+00:33:14,141 --> 00:33:17,243
+They sent a really cute
+recruiter to my school.
+
+605
+00:33:17,268 --> 00:33:18,968
+That's it?
+
+606
+00:33:21,435 --> 00:33:25,128
+I get to carry a gun and arrest bad people.
+
+607
+00:33:25,153 --> 00:33:27,153
+What's not to love?
+
+608
+00:33:33,952 --> 00:33:37,954
+Next stop, Penn Station, New York City.
+
+609
+00:33:50,089 --> 00:33:51,089
+_
+
+610
+00:33:54,177 --> 00:33:55,177
+_
+
+611
+00:33:59,981 --> 00:34:01,781
+I know.
+
+612
+00:34:01,886 --> 00:34:05,922
+Well, I've paid the check.
+I'm late for a meeting.
+
+613
+00:34:06,082 --> 00:34:07,882
+And we haven't talked.
+
+614
+00:34:11,377 --> 00:34:15,701
+I'm happy to talk about
+us if you want to talk.
+
+615
+00:34:19,574 --> 00:34:22,608
+I wish we could spend more time together.
+
+616
+00:34:25,517 --> 00:34:29,018
+I always want spend more time with you...
+
+617
+00:34:29,687 --> 00:34:31,486
+even when I shouldn't.
+
+618
+00:34:33,026 --> 00:34:35,477
+You're like...
+
+619
+00:34:36,122 --> 00:34:38,723
+You're my Kryptonite, Natalia.
+
+620
+00:34:41,789 --> 00:34:43,594
+I'll come by tonight when I'm done.
+
+621
+00:35:11,459 --> 00:35:13,826
+I see you still like our place.
+
+622
+00:35:16,941 --> 00:35:18,374
+Is that the new guy?
+
+623
+00:35:18,399 --> 00:35:20,144
+Rebound?
+
+624
+00:35:20,169 --> 00:35:22,455
+You were the new guy, Stephen.
+
+625
+00:35:22,480 --> 00:35:25,381
+He's just the guy.
+
+626
+00:35:25,406 --> 00:35:27,344
+Did you decrypt the file?
+
+627
+00:35:27,981 --> 00:35:30,529
+Only a foreign intelligence
+agency could pull off
+
+628
+00:35:30,554 --> 00:35:32,184
+that kind of encryption.
+
+629
+00:35:32,208 --> 00:35:33,755
+You're playing at a higher-stakes table
+
+630
+00:35:33,780 --> 00:35:35,608
+than I thought.
+
+631
+00:35:36,038 --> 00:35:37,571
+What do you mean?
+
+632
+00:35:37,596 --> 00:35:40,318
+"Five PSI overpressure at one kilometer."
+
+633
+00:35:40,343 --> 00:35:42,309
+- Know what that means?
+- No.
+
+634
+00:35:42,334 --> 00:35:44,870
+It means we're talking
+about a blast radius,
+
+635
+00:35:44,895 --> 00:35:48,037
+a half-a-mile blast radius.
+
+636
+00:35:48,563 --> 00:35:50,430
+Half a mile?
+
+637
+00:35:50,455 --> 00:35:52,259
+Don't want to guess how
+many people that would kill
+
+638
+00:35:52,284 --> 00:35:54,151
+in Manhattan.
+
+639
+00:35:54,176 --> 00:35:57,415
+These other numbers are bank accounts.
+
+640
+00:35:57,944 --> 00:36:01,124
+So you got money whipping
+all around the world
+
+641
+00:36:01,149 --> 00:36:04,285
+and a plan to make a very big explosion.
+
+642
+00:36:04,310 --> 00:36:07,778
+I'm gonna be getting out
+of Manhattan for a while.
+
+643
+00:36:07,803 --> 00:36:10,507
+You might want to do the same.
+
+644
+00:36:30,827 --> 00:36:32,352
+Are you sure we're okay here?
+
+645
+00:36:32,377 --> 00:36:33,661
+I re-swept everything
+
+646
+00:36:33,686 --> 00:36:35,599
+and ungrounded Sarah
+so she wouldn't be here.
+
+647
+00:36:37,044 --> 00:36:39,911
+Okay, tell us.
+
+648
+00:36:39,936 --> 00:36:41,664
+It's bad.
+
+649
+00:36:50,226 --> 00:36:51,759
+What are you two doing?
+
+650
+00:36:51,784 --> 00:36:53,676
+Looking at footage from
+video cameras on the buses
+
+651
+00:36:53,701 --> 00:36:56,418
+that pass outside the Masonic Temple.
+
+652
+00:36:57,746 --> 00:37:00,046
+The death toll from an
+explosion this size...
+
+653
+00:37:00,071 --> 00:37:01,804
+It could start a war.
+
+654
+00:37:01,829 --> 00:37:03,564
+Which Russia doesn't want to do.
+
+655
+00:37:03,589 --> 00:37:04,713
+This doesn't make sense.
+
+656
+00:37:04,738 --> 00:37:06,693
+Either way, we take
+this to the authorities,
+
+657
+00:37:06,718 --> 00:37:08,263
+they have to grant us immunity, right?
+
+658
+00:37:08,288 --> 00:37:10,376
+Because we bring them a blast radius? No.
+
+659
+00:37:10,401 --> 00:37:13,064
+It could just be an impact
+assessment of a weapon.
+
+660
+00:37:13,769 --> 00:37:16,209
+Was there anything in
+what Gallagher decrypted
+
+661
+00:37:16,234 --> 00:37:18,568
+that indicated an actual plan?
+
+662
+00:37:19,620 --> 00:37:22,187
+Account numbers, nothing else.
+
+663
+00:37:22,212 --> 00:37:24,946
+So we need to find out who
+controls those accounts.
+
+664
+00:37:24,971 --> 00:37:26,204
+Yeah.
+
+665
+00:37:32,155 --> 00:37:34,708
+I think I found something.
+
+666
+00:37:45,010 --> 00:37:47,411
+See? There he is.
+
+667
+00:37:47,436 --> 00:37:48,702
+How do you know it's them?
+
+668
+00:37:48,727 --> 00:37:50,409
+Well, this footage is from Sunday.
+
+669
+00:37:50,434 --> 00:37:52,225
+The Masonic Temple is closed on Sundays.
+
+670
+00:37:52,250 --> 00:37:54,187
+We can't see his face.
+
+671
+00:37:54,212 --> 00:37:56,043
+Yeah, but if he goes in...
+
+672
+00:37:56,068 --> 00:37:57,868
+He has to come out.
+
+673
+00:38:05,110 --> 00:38:07,955
+Hey, what are you doing here?
+
+674
+00:38:07,980 --> 00:38:09,523
+That's your stuff.
+
+675
+00:38:09,548 --> 00:38:11,248
+What?
+
+676
+00:38:11,360 --> 00:38:14,884
+I had my locks changed. I
+need to get away from you.
+
+677
+00:38:14,909 --> 00:38:16,900
+What are you talking about?
+
+678
+00:38:16,924 --> 00:38:20,187
+This afternoon you were saying
+the complete opposite thing.
+
+679
+00:38:21,985 --> 00:38:24,202
+I'm sorry.
+
+680
+00:38:24,520 --> 00:38:27,021
+Natalia.
+
+681
+00:38:27,336 --> 00:38:29,595
+Natalia!
+
+682
+00:38:54,715 --> 00:38:57,812
+Go. Just go.
+
+683
+00:38:59,218 --> 00:39:02,387
+So many people, and none of them
+coming out of the damn temple.
+
+684
+00:39:10,712 --> 00:39:12,912
+What have you got, Alex?
+
+685
+00:39:12,937 --> 00:39:15,907
+Is it them? Can you see their faces?
+
+686
+00:39:15,932 --> 00:39:18,219
+What? Um, no.
+
+687
+00:39:20,622 --> 00:39:22,622
+It's not even the right
+street corner, Alex.
+
+688
+00:39:22,647 --> 00:39:24,046
+Right.
+
+689
+00:39:24,071 --> 00:39:26,071
+Sorry.
+
+690
+00:39:31,708 --> 00:39:34,743
+Sarah.
+
+691
+00:39:41,361 --> 00:39:44,214
+_
+
+692
+00:39:47,415 --> 00:39:48,956
+_
+
+693
+00:39:56,970 --> 00:39:59,634
+_
+
+694
+00:40:24,602 --> 00:40:26,242
+It was you, wasn't it?
+
+695
+00:40:26,267 --> 00:40:28,529
+In Philadelphia.
+
+696
+00:40:28,554 --> 00:40:30,120
+Yes.
+
+697
+00:40:32,903 --> 00:40:35,054
+And now it's time to tell you everything
+
+698
+00:40:35,079 --> 00:40:37,206
+so you understand why.
+
+699
+00:40:37,325 --> 00:40:43,114
+- Synced and corrected by martythecrazy -
+- www.addic7ed.com -
+

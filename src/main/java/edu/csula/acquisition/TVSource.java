@@ -1,12 +1,22 @@
 package edu.csula.acquisition;
 
+import java.io.ByteArrayInputStream;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.util.Collection;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
+import org.apache.commons.io.IOUtils;
+import org.codehaus.jackson.JsonFactory;
+import org.codehaus.jackson.map.ObjectMapper;
+import org.json.simple.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -273,4 +283,53 @@ public class TVSource implements Source<String> {
 			}
 		}
 	}
+
+	/*------ Fetching all tv series records like rating, voting from imdb api----------*/
+	public static void getDataFromIMDB(){
+
+        try {
+ 
+        	 //InputStream in = new FileInputStream("C:\\Users\\Ami\\CS594_data_workspace\\TVSeries\\Data\\Tvshows.json");
+	
+        	
+        		FileInputStream fis = new FileInputStream("D:\\BigData_Project_Workspace\\TVSeries_TestingProject\\Data\\Tvshows.json");
+        		String StringFromInputStream = IOUtils.toString(fis, "UTF-8");
+        		//System.out.println(StringFromInputStream);
+        		InputStream stream = new ByteArrayInputStream(StringFromInputStream.getBytes(StandardCharsets.UTF_8));
+        		 
+        		 
+        			for (Iterator it = new ObjectMapper().readValues(
+        					new JsonFactory().createJsonParser(stream), Map.class); it
+        					.hasNext();) {
+        		
+        				@SuppressWarnings("unchecked")
+        				LinkedHashMap<String, String> keyValue = (LinkedHashMap<String,String>) it.next();
+        				//System.out.println(keyValue.get("Name"));
+        		
+        				 URL url = new URL("http://www.omdbapi.com/?t="+keyValue.get("Name").replace(" ", "%20"));
+        				HttpURLConnection huc = (HttpURLConnection) url.openConnection();
+        				huc.setRequestMethod("HEAD");
+
+        				int responseCode = huc.getResponseCode();
+        				//System.out.println(responseCode);
+        				if (responseCode != 400 && responseCode != 404) {
+        				
+        				JSONObject json = JsonWriter.readJsonFromUrl("http://www.omdbapi.com/?t="+keyValue.get("Name").replace(" ", "%20"));
+        			    //System.out.println(json.toString());
+        			    String title = (String) json.get("Title") ;
+        			    String rating = (String) json.get("imdbRating") ;
+        			    String plot = (String) json.get("Plot") ;
+        			    String vote = (String) json.get("imdbVotes") ;
+        			    String genre = (String) json.get("Genre") ;
+        		         //System.out.println(title+":"+rating+plot+vote+genre);   
+        			    JsonWriter.JsonWriteForIMDB(title, rating, genre, vote, plot);
+        				}
+
+        			}
+ 
+				} catch (Exception e) {
+            e.printStackTrace();
+        }
+	}
+
 }

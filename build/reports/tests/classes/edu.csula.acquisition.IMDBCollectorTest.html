@@ -3,17 +3,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta http-equiv="x-ua-compatible" content="IE=edge"/>
-<title>Test results - Class org.gradle.PersonTest</title>
+<title>Test results - Class edu.csula.acquisition.IMDBCollectorTest</title>
 <link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 <script src="../js/report.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="content">
-<h1>Class org.gradle.PersonTest</h1>
+<h1>Class edu.csula.acquisition.IMDBCollectorTest</h1>
 <div class="breadcrumbs">
 <a href="../index.html">all</a> &gt; 
-<a href="../packages/org.gradle.html">org.gradle</a> &gt; PersonTest</div>
+<a href="../packages/edu.csula.acquisition.html">edu.csula.acquisition</a> &gt; IMDBCollectorTest</div>
 <div id="summary">
 <table>
 <tr>
@@ -23,7 +23,7 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">1</div>
+<div class="counter">2</div>
 <p>tests</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.005s</div>
+<div class="counter">0.849s</div>
 <p>duration</p>
 </div>
 </td>
@@ -78,8 +78,13 @@
 </tr>
 </thead>
 <tr>
-<td class="success">canConstructAPersonWithAName</td>
-<td>0.005s</td>
+<td class="success">testIMDB</td>
+<td>0.843s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testIMDBJson</td>
+<td>0.006s</td>
 <td class="success">passed</td>
 </tr>
 </table>
@@ -88,9 +93,15 @@
 <h2>Standard error</h2>
 <span class="code">
 <pre>Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:3, serverValue:88708}] to localhost:27017
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
 Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 4]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=969919}
+INFO: Opened connection [connectionId{localValue:1, serverValue:88706}] to localhost:27017
+Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 4]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=911603}
+Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:2, serverValue:88707}] to localhost:27017
+Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
 </pre>
 </span>
 </div>

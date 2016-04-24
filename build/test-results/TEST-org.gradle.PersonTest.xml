@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.gradle.PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-24T17:26:10" hostname="vrushank" time="0.005">
+<testsuite name="org.gradle.PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-24T20:02:05" hostname="Ami-PC" time="0.006">
   <properties/>
-  <testcase name="canConstructAPersonWithAName" classname="org.gradle.PersonTest" time="0.005"/>
+  <testcase name="canConstructAPersonWithAName" classname="org.gradle.PersonTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:3, serverValue:88708}] to localhost:27017
-Apr 24, 2016 10:26:10 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 4]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=969919}
-]]></system-err>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -15,5 +15,12 @@ public class TVSourceTest {
 	public void testTVSubData() throws Exception {
 		tvSource.getSubtitlesByTVSub();
 	}
+	
+	@Test
+	public void testTVShows() throws Exception {
+		tvSource.getTVShowsByTVSubtitles("http://www.tvsubtitles.net/tvshows.html");
+	}
+	
+	
 
 }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.csula.acquisition.TVCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-24T18:07:11" hostname="Ami-PC" time="0.158">
+<testsuite name="edu.csula.acquisition.TVCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-24T19:51:37" hostname="Ami-PC" time="0.167">
   <properties/>
-  <testcase name="testSubtitlesList" classname="edu.csula.acquisition.TVCollectorTest" time="0.022"/>
-  <testcase name="testSubtitles" classname="edu.csula.acquisition.TVCollectorTest" time="0.135"/>
+  <testcase name="testSubtitlesList" classname="edu.csula.acquisition.TVCollectorTest" time="0.026"/>
+  <testcase name="testSubtitles" classname="edu.csula.acquisition.TVCollectorTest" time="0.141"/>
   <system-out><![CDATA[season-5      90210.S05E14.Brother.from.Another.Mother.HDTV.XviD-AFG.srt
 season-5      90210.S05E15.Strange.Brew.HDTV.XviD-AFG.srt
 season-1      Allegiance S01E02 HDTV x264-LOL.srt
@@ -26,23 +26,25 @@ Data      ExtractedTest
 Data      ExtractedTest
 Data      ExtractedTest
 ]]></system-out>
-  <system-err><![CDATA[Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1150346}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+  <system-err><![CDATA[Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:3, serverValue:129}] to localhost:27017
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=935270}
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:4, serverValue:75}] to localhost:27017
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=937055}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:5, serverValue:76}] to localhost:27017
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1006665}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:6, serverValue:77}] to localhost:27017
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:4, serverValue:130}] to localhost:27017
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=903143}
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:5, serverValue:131}] to localhost:27017
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=2004852}
+Apr 24, 2016 12:51:37 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:6, serverValue:132}] to localhost:27017
 ]]></system-err>
 </testsuite>

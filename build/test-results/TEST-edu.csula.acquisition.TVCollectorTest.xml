@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.csula.acquisition.TVCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-24T18:07:11" hostname="Ami-PC" time="0.158">
+<testsuite name="edu.csula.acquisition.TVCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-24T20:02:05" hostname="Ami-PC" time="0.068">
   <properties/>
-  <testcase name="testSubtitlesList" classname="edu.csula.acquisition.TVCollectorTest" time="0.022"/>
-  <testcase name="testSubtitles" classname="edu.csula.acquisition.TVCollectorTest" time="0.135"/>
-  <system-out><![CDATA[season-5      90210.S05E14.Brother.from.Another.Mother.HDTV.XviD-AFG.srt
-season-5      90210.S05E15.Strange.Brew.HDTV.XviD-AFG.srt
-season-1      Allegiance S01E02 HDTV x264-LOL.srt
-season-1      Allegiance S01E05 HDTV x264-LOL.srt
-season-1      Allegiance S01E07 Stranger in a Strange Land 480p WEB-DL x264-LTBS.srt
-season-1      Allegiance S01E08 Secrets and Spies WebRip x264-FiHTV.srt
-season-1      Allegiance.S01E01.720p.HDTV.X264-DIMENSION.srt
-season-1      Allegiance.S01E03.HDTV.x264-LOL.srt
-season-1      Allegiance.S01E04.720p.HDTV.X264-DIMENSION.srt
-season-1      Allegiance.S01E06.Liars.and.Thieves.WEB-DL.XviD-FUM.srt
-season-1      Allegiance.S01E09.Clean.Hands.WEB-DL.XviD-FUM[ettv].srt
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
-Data      ExtractedTest
+  <testcase name="testSubtitlesList" classname="edu.csula.acquisition.TVCollectorTest" time="0.012"/>
+  <testcase name="testSubtitles" classname="edu.csula.acquisition.TVCollectorTest" time="0.055"/>
+  <system-out><![CDATA[new      90210.S05E14.Brother.from.Another.Mother.HDTV.XviD-AFG.srt
+new      90210.S05E15.Strange.Brew.HDTV.XviD-AFG.srt
+Data      new
+Data      new
 ]]></system-out>
-  <system-err><![CDATA[Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1150346}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+  <system-err><![CDATA[Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:4, serverValue:75}] to localhost:27017
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=937055}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:4, serverValue:136}] to localhost:27017
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=981676}
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:5, serverValue:76}] to localhost:27017
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1006665}
-Apr 24, 2016 11:07:11 AM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:6, serverValue:77}] to localhost:27017
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:5, serverValue:137}] to localhost:27017
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1845106}
+Apr 24, 2016 1:02:05 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:6, serverValue:138}] to localhost:27017
 ]]></system-err>
 </testsuite>

@@ -22,12 +22,11 @@ public class TV_CollectorTest {
 	    public void mungee() throws Exception {
 	        List<SimpleData> list = (List<SimpleData>) collector.mungee(source.next());
 	        List<SimpleData> expectedList = Lists.newArrayList(
-	            new SimpleData("1", "'Allo 'Allo","8.3"),
-	            new SimpleData("2","10 Things I Hate About You" ,"7.2"),
-	            new SimpleData("3","100 Code" ,"7.3")
+	            new SimpleData("2", "GAME OF THRONES","content2"),
+	            new SimpleData("3","SUITS" ,"content3")
 	        );
 
-	        Assert.assertEquals(list.size(), 3);
+	        Assert.assertEquals(list.size(), 2);
 
 	        for (int i = 0; i < 2; i ++) {
 	            Assert.assertEquals(list.get(i).getId(), expectedList.get(i).getId());

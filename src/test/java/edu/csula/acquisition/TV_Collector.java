@@ -7,7 +7,7 @@ public class TV_Collector implements Collector<SimpleData, TV_Model> {
 
 	@Override
 	public Collection<SimpleData> mungee(Collection<TV_Model> src) {
-		  return src
+		 return src
 		            .stream()
 		            .filter(data -> data.getSeason() != null)
 		            .map(SimpleData::build)

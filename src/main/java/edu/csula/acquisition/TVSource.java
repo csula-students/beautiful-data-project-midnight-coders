@@ -26,9 +26,15 @@ public class TVSource implements Source<String> {
 
 	Document doc;
 	static Document docSub;
+	private long minID;
+	
+	
+	public TVSource(long minID){
+		this.minID = minID;
+	}
 	public boolean hasNext() {
 		// TODO Auto-generated method stub
-		return false;
+		return minID>0;
 	}
 
 	public Collection<String> next() {
@@ -38,6 +44,7 @@ public class TVSource implements Source<String> {
 
 	/*-----Fetch All TV Series Shows from TVSubtitles.com----------*/
 	public void getTVShowsByTVSubtitles(String path) {
+		
 		try {
 			doc = Jsoup.connect(path).get();
 
@@ -72,6 +79,7 @@ public class TVSource implements Source<String> {
 	public static void getSubtitlesByTVSubtitles(String url, int season,
 			String SeasonName) {
 		try {
+			String current = new java.io.File( "." ).getCanonicalPath();
 			docSub = Jsoup.connect(url).get();
 			String[] token = url.split("-");
 			// String[] NewToken = token[2].split(".");
@@ -110,7 +118,7 @@ public class TVSource implements Source<String> {
 								System.out.println(link);
 							// System.out.println(cols1.get(3).select("a[href]").first().attr("href"));
 
-							String saveTo = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\downloaded\\";
+							String saveTo = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subtitles\\downloaded\\";
 							String filepath = link;
 							String[] filename = filepath.split("-");
 							try {
@@ -142,9 +150,9 @@ public class TVSource implements Source<String> {
 								e.printStackTrace();
 							}
 
-							String zipFilePath = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\downloaded\\"
+							String zipFilePath = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subtitles\\downloaded\\"
 									+ filename[0] + "_" + fileid[0] + ".zip";
-							String destDirectory = "C:\\Users\\Ami\\PycharmProjects\\TVSeries\\extracted";
+							String destDirectory = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subtitles\\extracted";
 							UnzipUtility unzipper = new UnzipUtility();
 							try {
 
@@ -170,6 +178,7 @@ public class TVSource implements Source<String> {
 	/*-----Fetch Subtitles from TV-Subs.com----------*/
 	public static void getSubtitlesByTVSub() throws IOException {
 		Document doc = null;
+		String current = new java.io.File( "." ).getCanonicalPath();
 		for (int i = 1; i < 150; i++) {
 			String url = "http://www.tv-subs.com/browse/page-" + i;
 			doc = Jsoup.connect(url).timeout(100000 * 1000000).get();
@@ -227,7 +236,7 @@ public class TVSource implements Source<String> {
 										+ "http://www.tv-subs.com"
 										+ rowLang.select("a[href]").first()
 												.attr("href") + ".zip");
-								String saveTo = "D:\\TVSeriesData\\Data\\";
+								String saveTo = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subs\\download\\";
 								String filepath = rowLang.select("a[href]")
 										.first().attr("href");
 								String[] filename = filepath.split("/");
@@ -258,9 +267,9 @@ public class TVSource implements Source<String> {
 									e.printStackTrace();
 								}
 
-								String zipFilePath = "D:\\TVSeriesData\\Data\\"
+								String zipFilePath = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subs\\download\\"
 										+ filename[2] + ".zip";
-								String destDirectory = "D:\\TVSeriesData\\Extracted";
+								String destDirectory = current+"\\src\\main\\resources\\TvSeries_Data\\Tv-Subs\\Extracted";
 								UnzipUtility unzipper = new UnzipUtility();
 								try {
 									unzipper.unzip(zipFilePath, destDirectory,
@@ -288,11 +297,11 @@ public class TVSource implements Source<String> {
 	public static void getDataFromIMDB(){
 
         try {
- 
+        	String current = new java.io.File( "." ).getCanonicalPath();
         	 //InputStream in = new FileInputStream("C:\\Users\\Ami\\CS594_data_workspace\\TVSeries\\Data\\Tvshows.json");
 	
         	
-        		FileInputStream fis = new FileInputStream("D:\\BigData_Project_Workspace\\TVSeries_TestingProject\\Data\\Tvshows.json");
+        		FileInputStream fis = new FileInputStream(current+"\\Data\\Tvshows.json");
         		String StringFromInputStream = IOUtils.toString(fis, "UTF-8");
         		//System.out.println(StringFromInputStream);
         		InputStream stream = new ByteArrayInputStream(StringFromInputStream.getBytes(StandardCharsets.UTF_8));

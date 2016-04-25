@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.csula.acquisition.IMDBCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-24T22:14:54" hostname="Ami-PC" time="1.089">
+<testsuite name="edu.csula.acquisition.IMDBCollectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-25T03:24:03" hostname="vrushank" time="0.879">
   <properties/>
-  <testcase name="testIMDB" classname="edu.csula.acquisition.IMDBCollectorTest" time="1.071"/>
-  <testcase name="testIMDBJson" classname="edu.csula.acquisition.IMDBCollectorTest" time="0.018"/>
+  <testcase name="testIMDB" classname="edu.csula.acquisition.IMDBCollectorTest" time="0.872"/>
+  <testcase name="testIMDBJson" classname="edu.csula.acquisition.IMDBCollectorTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Apr 24, 2016 3:14:54 PM com.mongodb.diagnostics.logging.JULLogger log
+  <system-err><![CDATA[Apr 24, 2016 8:24:03 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 3:14:54 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:1, serverValue:145}] to localhost:27017
-Apr 24, 2016 3:14:54 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=2761634}
-Apr 24, 2016 3:14:55 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:2, serverValue:146}] to localhost:27017
-Apr 24, 2016 3:14:55 PM com.mongodb.diagnostics.logging.JULLogger log
+Apr 24, 2016 8:24:03 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:1, serverValue:88738}] to localhost:27017
+Apr 24, 2016 8:24:03 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 4]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1122941}
+Apr 24, 2016 8:24:04 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:2, serverValue:88739}] to localhost:27017
+Apr 24, 2016 8:24:04 PM com.mongodb.diagnostics.logging.JULLogger log
 INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Apr 24, 2016 3:14:55 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Opened connection [connectionId{localValue:3, serverValue:147}] to localhost:27017
-Apr 24, 2016 3:14:55 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 5]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=941963}
 ]]></system-err>
 </testsuite>

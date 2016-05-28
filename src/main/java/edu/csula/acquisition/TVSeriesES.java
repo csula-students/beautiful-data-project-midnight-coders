@@ -1,8 +1,18 @@
 package edu.csula.acquisition;
 
-import com.google.gson.Gson;
+import static org.elasticsearch.node.NodeBuilder.nodeBuilder;
 
-import org.elasticsearch.action.bulk.*;
+import java.io.File;
+import java.io.IOException;
+import java.net.URISyntaxException;
+import java.nio.charset.Charset;
+
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVParser;
+import org.elasticsearch.action.bulk.BackoffPolicy;
+import org.elasticsearch.action.bulk.BulkProcessor;
+import org.elasticsearch.action.bulk.BulkRequest;
+import org.elasticsearch.action.bulk.BulkResponse;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.client.Client;
 import org.elasticsearch.common.settings.Settings;
@@ -11,38 +21,31 @@ import org.elasticsearch.common.unit.ByteSizeValue;
 import org.elasticsearch.common.unit.TimeValue;
 import org.elasticsearch.node.Node;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URISyntaxException;
-import java.nio.charset.Charset;
-import java.util.Date;
+import com.google.gson.Gson;
 
-import static org.elasticsearch.node.NodeBuilder.nodeBuilder;
-
-/**
- * Quiz elastic search app to see Salaries.csv file better
- *
- * gradle command to run this app `gradle esQuiz`
- *
- * Before you send data, please run the following to update mapping first:
- *
- * ```
- PUT /quiz-data
+/*
+ * 
+ * 
+ PUT /series1-data
  {
      "mappings" : {
-         "salaries" : {
+         "series" : {
              "properties" : {
                  "name" : {
                      "type" : "string",
-                     "index" : "not_analyzed"
+                     "index" : "analyzed"
                  },
-                 "jobTitle" : {
-                     "type" : "string",
-                     "index" : "not_analyzed"
+                 "rating" : {
+                     "type" : "double",
+                     "index" : "analyzed"
                  },
-                 "agency" : {
+                 "vote" : {
+                     "type" : "double",
+                     "index" : "analyzed"
+                 },
+				  "genre" : {
                      "type" : "string",
-                     "index" : "not_analyzed"
+                     "index" : "analyzed"
                  },
                  "year": {
                      "type": "date"
@@ -51,15 +54,16 @@ import static org.elasticsearch.node.NodeBuilder.nodeBuilder;
          }
      }
  }
- ```
+
  */
-public class QuizESApp {
-    private final static String indexName = "es-data";
-    private final static String typeName = "es";
+
+public class TVSeriesES {
+	private final static String indexName = "series1-data";
+    private final static String typeName = "series";
 
     public static void main(String[] args) throws URISyntaxException, IOException {
         Node node = nodeBuilder().settings(Settings.builder()
-            .put("cluster.name", "krunalpatel78")
+            .put("cluster.name", "vshah-es")
             .put("path.home", "elasticsearch-data")).node();
         Client client = node.client();
 
@@ -71,7 +75,10 @@ public class QuizESApp {
 
         // as usual process to connect to data source, we will need to set up
         // node and client// to read CSV file from the resource folder
-      
+        File csv = new File(
+            ClassLoader.getSystemResource("TVData.csv")
+                .toURI()
+        );
 
         // create bulk processor
         BulkProcessor bulkProcessor = BulkProcessor.builder(
@@ -107,77 +114,86 @@ public class QuizESApp {
         // Gson library for sending json to elastic search
         Gson gson = new Gson();
 
-        
+        try {
             // after reading the csv file, we will use CSVParser to parse through
             // the csv files
-           
-        Salary salary = new Salary(1, "krunal", new Date());
-        
-        bulkProcessor.add(new IndexRequest(indexName, typeName)
-                .source(gson.toJson(salary))
+            CSVParser parser = CSVParser.parse(
+                csv,
+                Charset.defaultCharset(),
+                CSVFormat.EXCEL.withHeader()
             );
+
             // for each record, we will insert data into Elastic Search
-       /*     parser.forEach(record -> {
-                Salary salary = new Salary(
-                    Long.parseLong(record.get("Id")),
-                    record.get("EmployeeName"),
-                    record.get("JobTitle"),
-                    parseSafe(record.get("BasePay")),
-                    parseSafe(record.get("OvertimePay")),
-                    parseSafe(record.get("OtherPay")),
-                    parseSafe(record.get("Benefits")),
-                    parseSafe(record.get("TotalPay")),
-                    parseSafe(record.get("TotalPayBenefits")),
-                    Integer.parseInt(record.get("Year").isEmpty() ? "1979" : record.get("Year")),
-                    record.get("Notes"),
-                    record.get("Agency"),
-                    record.get("Status")
+            parser.forEach(record -> {
+                Data salary = new Data(
+                    record.get("Name").replaceAll(" ", ""),
+                    record.get("Rating"),
+                   Long.parseLong( record.get("Vote").replaceAll(",", "")),
+                    record.get("Genre"),
+                   Integer.parseInt(record.get("Year").isEmpty() ? "1979" : record.get("Year")) 
                 );
+                //System.out.println( record.get("Genre").replaceAll(" ", ""));
                 bulkProcessor.add(new IndexRequest(indexName, typeName)
                     .source(gson.toJson(salary))
                 );
-            });*/
-        
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
+
+    private static Double parseSafe(String value) {
+        return Double.parseDouble(value.isEmpty() || value.equals("Not Provided") ? "0" : value);
+    }
+
+    static class Data {
+    
+        private final String name;
+        private final String rating;
+        private final long vote;
+        private final String genre;
+        private final int year;
 
   
 
-    static class Salary {
-        private long id;
-        private String name;
-        private Date dt;
-
-        public long getId() {
-			return id;
-		}
-
-		public String getName() {
-			return name;
-		}
-
-		public Date getDt() {
-			return dt;
-		}
-
-		public void setId(long id) {
-			this.id = id;
-		}
-
-		public void setName(String name) {
-			this.name = name;
-		}
-
-		public void setDt(Date dt) {
-			this.dt = dt;
-		}
-
-		public Salary(long id, String name, Date dt) {
-            this.id = id;
+        public Data(String name,String rating,long vote,String genre,int year) {
+      
             this.name = name;
-            this.dt=dt;
-            
+            this.rating = rating;
+            this.vote=vote;
+            this.genre=genre;
+          this.year=year;
         }
 
-     
+       
+
+        public int getYear() {
+			return year;
+		}
+
+
+
+		public String getName() {
+            return name;
+        }
+
+
+
+		public String getRating() {
+			return rating;
+		}
+
+
+
+		public long getVote() {
+			return vote;
+		}
+
+
+
+		public String getGenre() {
+			return genre;
+		}    
     }
+
 }
